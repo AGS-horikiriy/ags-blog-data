@@ -1,6 +1,6 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-05-23 12:27:48 ICT)
-// ピラーポスト数: 103 件
+// 自動生成: GitHub Actions (2026-05-23 13:08:40 ICT)
+// ピラーポスト数: 95 件
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
 // 手動編集しないでください。
@@ -3656,20 +3656,6 @@ window.AGS_PILLAR_AUDIT = {
 },
 "title": "Tổng hợp điểm mới Luật Quản lý thuế 2025 (Luật số 108/2025/QH15) do Quốc hội ban hành?"
 },
-"https://ketoan.ags-vina.com/2025/12/tong-hop-iem-moi-ve-luat-sua-oi-luat.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 813,
-"published": "2025-12-19T22:02:04+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp điểm mới về Luật sửa đổi Luật Thuế giá trị gia tăng"
-},
 "https://ketoan.ags-vina.com/2025/12/tong-hop-nhung-bai-viet-ve-ky-nang-blog.html": {
 "link_count": 5,
 "links": [
@@ -4062,62 +4048,6 @@ window.AGS_PILLAR_AUDIT = {
 },
 "title": "Phân biệt giữa sai sót và gian lận báo cáo tài chính: Hiểu đúng để kiểm soát rủi ro"
 },
-"https://ketoan.ags-vina.com/2026/03/cac-tinh-huong-vi-pham-ao-uc-nghe.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1953,
-"published": "2026-03-15T13:38:03+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Các Tình Huống Vi Phạm Đạo Đức Nghề Nghiệp Kế Toán Trong Thực Tế"
-},
-"https://ketoan.ags-vina.com/2026/03/case-study-hien-tuong-ong-pi-tai-viet.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 944,
-"published": "2026-03-09T19:57:46+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Case Study: Hiện tượng Đồng Pi tại Việt Nam"
-},
-"https://ketoan.ags-vina.com/2026/03/chuan-muc-ao-uc-nghe-nghiep-kiem-toan.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1887,
-"published": "2026-03-15T16:04:38+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Chuẩn mực đạo đức nghề nghiệp kiểm toán – Nền tảng làm nghề bền vững"
-},
-"https://ketoan.ags-vina.com/2026/03/chuyen-oi-bao-cao-tai-chinh-tu-ngoai-te.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1948,
-"published": "2026-03-15T13:38:03+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Chuyển đổi báo cáo tài chính từ ngoại tệ sang VND – Những kiến thức cần nắm rõ"
-},
 "https://ketoan.ags-vina.com/2026/03/nhung-thay-oi-ang-chu-y-ve-nguyen-tac.html": {
 "link_count": 0,
 "links": [],
@@ -4145,47 +4075,5 @@ window.AGS_PILLAR_AUDIT = {
 "unknown": 0
 },
 "title": "RWA ( Tài Sản Có Trọng Số Rủi Ro ) là gì ?"
-},
-"https://ketoan.ags-vina.com/2026/03/tim-hieu-chi-tiet-ve-chuan-muc-ke-toan.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1531,
-"published": "2026-03-15T13:38:03+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tìm hiểu chi tiết về chuẩn mực kế toán quốc tế"
-},
-"https://ketoan.ags-vina.com/2026/03/tong-quan-ve-thong-tu-99-cac-iem-thay.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1628,
-"published": "2026-03-15T13:38:03+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng quan về Thông tư 99 – Các điểm thay đổi đáng chú ý trong quy định chung so với Thông tư 200"
-},
-"https://ketoan.ags-vina.com/2026/03/top-chung-chi-ke-toan-kiem-toan-pho.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1832,
-"published": "2026-03-15T16:04:38+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Top chứng chỉ kế toán kiểm toán phổ biến nhất hiện nay"
 }
 };
