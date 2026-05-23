@@ -1,6 +1,6 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-05-23 13:08:40 ICT)
-// ピラーポスト数: 95 件
+// 自動生成: GitHub Actions (2026-05-23 17:20:26 ICT)
+// ピラーポスト数: 88 件
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
 // 手動編集しないでください。
@@ -2331,20 +2331,6 @@ window.AGS_PILLAR_AUDIT = {
 },
 "title": "Tổng hợp các loại thuế phải kê khai theo quý, thủ tục và hồ sơ kê khai "
 },
-"https://ketoan.ags-vina.com/2024/08/tong-hop-cac-phim-tat-phan-mem-fast.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 958,
-"published": "2024-08-17T08:59:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": " Tổng hợp các phím tắt phần mềm FAST"
-},
 "https://ketoan.ags-vina.com/2024/08/tong-hop-van-ban-gia-han-nop-thue-nam.html": {
 "link_count": 0,
 "links": [],
@@ -2610,26 +2596,6 @@ window.AGS_PILLAR_AUDIT = {
 "unknown": 0
 },
 "title": "Tổng hợp các khoản chi được trừ khi tính thuế TNDN từ ngày 01/10/2025"
-},
-"https://ketoan.ags-vina.com/2025/10/tong-hop-cac-khoan-thu-nhap-uoc-mien.html": {
-"link_count": 1,
-"links": [
-{
-"level": "unknown",
-"url": "https://ketoan.ags-vina.com/2024/03/vi-tri-tong-hop-tat-ca-vi-tri-tuyen-dung.html",
-"words": null
-}
-],
-"pillar_words": 1720,
-"published": "2025-10-15T13:38:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 1
-},
-"title": "Tổng hợp các khoản thu nhập được miễn thuế TNDN trong năm 2026?"
 },
 "https://ketoan.ags-vina.com/2025/10/tong-hop-cac-oi-tuong-chiu-thue-gtgt-0.html": {
 "link_count": 0,
@@ -3642,20 +3608,6 @@ window.AGS_PILLAR_AUDIT = {
 },
 "title": "Tổng hợp điểm đáng chú ý tại Nghị định 117/2025 về thuế đối với hộ, cá nhân kinh doanh online"
 },
-"https://ketoan.ags-vina.com/2025/12/tong-hop-iem-moi-luat-quan-ly-thue-2025.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 2314,
-"published": "2025-12-19T22:01:47+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp điểm mới Luật Quản lý thuế 2025 (Luật số 108/2025/QH15) do Quốc hội ban hành?"
-},
 "https://ketoan.ags-vina.com/2025/12/tong-hop-nhung-bai-viet-ve-ky-nang-blog.html": {
 "link_count": 5,
 "links": [
@@ -3964,20 +3916,6 @@ window.AGS_PILLAR_AUDIT = {
 },
 "title": "Top 10 Công ty xuất khẩu lao động lâu năm nhất Việt Nam"
 },
-"https://ketoan.ags-vina.com/2026/02/5-chinh-sach-thue-moi-nhat-tu-thang.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1012,
-"published": "2026-02-28T00:30:41+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "5 Chính Sách Thuế Mới Nhất Từ Tháng 10/2025: Cập Nhật Quan Trọng Cho Doanh Nghiệp"
-},
 "https://ketoan.ags-vina.com/2026/02/agentic-ai-xu-huong-cong-nghe-moi-inh.html": {
 "link_count": 0,
 "links": [],
@@ -4020,20 +3958,6 @@ window.AGS_PILLAR_AUDIT = {
 },
 "title": "ESG trong doanh nghiệp là gì? Ba trụ cột cốt lõi quyết định phát triển bền vững"
 },
-"https://ketoan.ags-vina.com/2026/02/khi-nao-doanh-nghiep-nen-thue-dich-vu.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 697,
-"published": "2026-02-28T19:42:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Khi nào doanh nghiệp nên thuê dịch vụ kế toán ngoài (Outsourcing)?"
-},
 "https://ketoan.ags-vina.com/2026/02/phan-biet-giua-sai-sot-va-gian-lan-bao.html": {
 "link_count": 0,
 "links": [],
@@ -4047,33 +3971,5 @@ window.AGS_PILLAR_AUDIT = {
 "unknown": 0
 },
 "title": "Phân biệt giữa sai sót và gian lận báo cáo tài chính: Hiểu đúng để kiểm soát rủi ro"
-},
-"https://ketoan.ags-vina.com/2026/03/nhung-thay-oi-ang-chu-y-ve-nguyen-tac.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 4606,
-"published": "2026-03-15T13:38:03+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Những thay đổi đáng chú ý về nguyên tắc lập và trình bày báo cáo tài chính theo Thông tư 99/2025/TT-BTC"
-},
-"https://ketoan.ags-vina.com/2026/03/rwa-tai-san-co-trong-so-rui-ro-la-gi.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 970,
-"published": "2026-03-05T09:46:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "RWA ( Tài Sản Có Trọng Số Rủi Ro ) là gì ?"
 }
 };
