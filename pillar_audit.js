@@ -1,6 +1,6 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-05-23 17:20:26 ICT)
-// ピラーポスト数: 88 件
+// 自動生成: GitHub Actions (2026-05-23 19:54:51 ICT)
+// ピラーポスト数: 83 件
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
 // 手動編集しないでください。
@@ -2681,34 +2681,6 @@ window.AGS_PILLAR_AUDIT = {
 },
 "title": "Tổng hợp quy định về lập, quản lý và sử dụng hóa đơn, chứng từ theo Nghị định 70/2025/NĐ-CP"
 },
-"https://ketoan.ags-vina.com/2025/12/cach-dung-power-query-hoac-pivot-table.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 650,
-"published": "2025-12-22T09:38:16+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Cách dùng Power Query hoặc Pivot Table để tổng hợp dữ liệu kế toán"
-},
-"https://ketoan.ags-vina.com/2025/12/thong-tu-992025-tong-hop-nhung-quy-inh.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 4521,
-"published": "2025-12-19T22:10:04+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "[Thông tư 99/2025] Tổng hợp những quy định mới về BTCT"
-},
 "https://ketoan.ags-vina.com/2025/12/tong-hop-cac-bai-lien-quan-en-thue-quoc-te.html": {
 "link_count": 10,
 "links": [
@@ -3668,20 +3640,6 @@ window.AGS_PILLAR_AUDIT = {
 },
 "title": "Tổng hợp A – Z: Thông tin về chứng chỉ quỹ nhà đầu tư cần biết"
 },
-"https://ketoan.ags-vina.com/2026/01/5-loai-nguy-co-kiem-toan-chinh-threats.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1408,
-"published": "2026-01-27T08:16:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "5 Loại Nguy Cơ Kiểm Toán Chính – Threats and Safeguards"
-},
 "https://ketoan.ags-vina.com/2026/01/tong-hop-cac-bai-viet-phap-ly-lien-quan.html": {
 "link_count": 10,
 "links": [
@@ -3915,34 +3873,6 @@ window.AGS_PILLAR_AUDIT = {
 "unknown": 0
 },
 "title": "Top 10 Công ty xuất khẩu lao động lâu năm nhất Việt Nam"
-},
-"https://ketoan.ags-vina.com/2026/02/agentic-ai-xu-huong-cong-nghe-moi-inh.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1190,
-"published": "2026-02-22T13:49:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Agentic AI: Xu hướng mới cho ngành nhân sự hiện đại"
-},
-"https://ketoan.ags-vina.com/2026/02/chinh-sach-moi-ve-tien-luong-thue-voi.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1206,
-"published": "2026-02-22T14:15:13+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Chính sách mới về tiền lương, thuế với người lao động có hiệu lực từ năm 2026"
 },
 "https://ketoan.ags-vina.com/2026/02/esg-trong-doanh-nghiep-la-gi-ba-tru-cot.html": {
 "link_count": 0,
