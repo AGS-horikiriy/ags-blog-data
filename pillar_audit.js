@@ -1,6 +1,7 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-05-25 14:00:03 ICT)
-// ピラーポスト数: 52 件
+// 自動生成: GitHub Actions (2026-05-25 19:17:18 ICT)
+// ピラーポスト数: 46 件
+// 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
 // 手動編集しないでください。
@@ -20,7 +21,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1266
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2021/01/lam-sao-e-tu-duy-phan-bien-tot-hon.html",
 "words": 1027
 },
@@ -40,7 +41,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 777
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/05/nhung-ieu-co-ban-ve-bao-cao.html",
 "words": 1128
 },
@@ -80,7 +81,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 3260
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/07/onboarding-la-gi-quy-trinh-giup-nhan.html",
 "words": 1171
 },
@@ -90,7 +91,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": null
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/03/phuong-phap-pomodoro-bi-quyet-tang-nang.html",
 "words": 1110
 },
@@ -120,8 +121,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 3,
-"low": 8,
-"rewrite": 7,
+"low": 4,
+"rewrite": 11,
 "unknown": 3
 },
 "title": "Tổng hợp kỹ năng cá nhân & kỹ năng làm việc hiệu quả trong doanh nghiệp Nhật Bản"
@@ -135,12 +136,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1438
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/01/7-bi-quyet-giup-ban-chinh-phuc-chung.html",
 "words": 993
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/10/xu-huong-ao-tao-ke-toan-voi-chung-chi.html",
 "words": 840
 },
@@ -175,8 +176,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 1,
-"low": 5,
-"rewrite": 2,
+"low": 3,
+"rewrite": 4,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết về Chứng chỉ"
@@ -200,7 +201,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 663
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/03/ma-so-can-cuoc-cong-dan-y-nghia-cua-12.html",
 "words": 809
 },
@@ -245,8 +246,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 4,
-"low": 5,
-"rewrite": 2,
+"low": 4,
+"rewrite": 3,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết về nhà cung cấp"
@@ -265,12 +266,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1723
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/05/li-thuyet-cua-modigliani-va-miller.html",
 "words": 892
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/05/phuong-phap-chiet-khau-dong-co-tuc.html",
 "words": 1036
 },
@@ -295,17 +296,17 @@ window.AGS_PILLAR_AUDIT = {
 "words": null
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/04/ty-suat-loi-nhuan-chi-so-quan-trong-e.html",
 "words": 1011
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/04/tim-hieu-bao-cao-luu-chuyen-tien-te.html",
 "words": 1013
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/05/quy-trinh-lap-bao-cao-tai-chinh-doanh.html",
 "words": 1016
 },
@@ -315,12 +316,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 3279
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/08/cac-thuat-ngu-quan-trong-trong-tai.html",
 "words": 1047
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/03/lai-suat-tai-tro-qua-em-co-bao-am-sofr.html",
 "words": 1071
 }
@@ -330,8 +331,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 2,
-"low": 11,
-"rewrite": 0,
+"low": 4,
+"rewrite": 7,
 "unknown": 1
 },
 "title": "Tổng hợp các bài viết về Tài chính nâng cao"
@@ -360,7 +361,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1826
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/08/au-moi-la-cach-hoc-tieng-nhat-hieu-qua.html",
 "words": 1166
 },
@@ -370,17 +371,17 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1278
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2020/05/08-viec-lam-tieng-nhat-pho-bien-cho.html",
 "words": 1186
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2021/03/hcm-05-trung-tam-nhat-ngu-uy-tin.html",
 "words": 1018
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2023/06/ha-noi-05-trung-tam-nhat-ngu-uy-tin.html",
 "words": 1045
 },
@@ -460,8 +461,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 2,
-"low": 12,
-"rewrite": 9,
+"low": 8,
+"rewrite": 13,
 "unknown": 0
 },
 "title": "Tổng hợp các thông tin về ngôn ngữ Nhật "
@@ -485,7 +486,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": null
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2023/05/van-hoa-5s-cua-nguoi-nhat-tai-ags.html",
 "words": 934
 },
@@ -500,8 +501,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 2,
-"low": 1,
-"rewrite": 1,
+"low": 0,
+"rewrite": 2,
 "unknown": 1
 },
 "title": "(Redirect301) Tổng hợp những bài viết về Nhân sự tuyển dụng tại AGS"
@@ -520,7 +521,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1645
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/05/nhung-ieu-can-biet-ve-chung-chi-hanh.html",
 "words": 1045
 },
@@ -530,7 +531,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1211
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/05/05-phan-mem-bim-pho-bien-nhat-hien-nay.html",
 "words": 998
 },
@@ -545,7 +546,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1322
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/05/nhung-thong-tin-can-biet-ve-revit.html",
 "words": 921
 },
@@ -570,8 +571,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 1,
-"low": 7,
-"rewrite": 3,
+"low": 4,
+"rewrite": 6,
 "unknown": 0
 },
 "title": "Tổng hợp những bài viết về Ngành Thiết kế"
@@ -585,12 +586,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": null
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/04/kpc-la-gi.html",
 "words": 938
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2018/04/kpc-phan-biet-oan-phi-cong-oan-va-kinh.html",
 "words": 813
 },
@@ -615,7 +616,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 452
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/04/kpcd-nl-lam-viec-tai-hai-noi-kinh-phi.html",
 "words": 830
 },
@@ -635,8 +636,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 0,
-"low": 4,
-"rewrite": 5,
+"low": 1,
+"rewrite": 8,
 "unknown": 1
 },
 "title": "[KPCĐ] Tổng hợp những vấn đề liên quan đến Kinh phí công đoàn"
@@ -660,22 +661,22 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1925
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/04/le-hoi-hoa-anh-ao-hanami-nhat-ban-co-gi.html",
 "words": 1124
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/03/tuan-le-vang-nhat-ban.html",
 "words": 886
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/10/kham-pha-van-hoa-nhat-ban-mot-ngay-hoa.html",
 "words": 898
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/07/kham-pha-nhat-ban-tu-o-cua-ngon-ngu.html",
 "words": 867
 },
@@ -695,7 +696,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2370
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/06/kham-pha-mai-vom-bom-nguyen-tu.html",
 "words": 952
 },
@@ -720,7 +721,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1892
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/08/quan-horyuji-kien-truc-phat-giao-lau-oi.html",
 "words": 1011
 },
@@ -770,12 +771,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2012
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/09/phao-ai-goryokaku-nay-la-cong-vien.html",
 "words": 1054
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/07/vuon-quoc-gia-nikko-nhat-ban.html",
 "words": 853
 },
@@ -800,12 +801,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 3623
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/06/tokyo-bieu-tuong-phon-vinh-tren-bo-ong.html",
 "words": 1120
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/06/ghe-tham-vung-que-yen-binh-akita.html",
 "words": 958
 },
@@ -820,7 +821,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1410
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/06/tai-sao-tinh-nagano-uoc-menh-danh-la.html",
 "words": 942
 },
@@ -840,7 +841,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1587
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/03/kham-pha-shokado-bento-mot-mon-truyen.html",
 "words": 986
 },
@@ -850,7 +851,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1204
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/03/komatsu-udon-tinh-hoa-am-thuc-hon-300.html",
 "words": 942
 },
@@ -860,12 +861,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1433
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/02/kham-pha-ca-etsu-ac-san-quy-hiem-chi-co.html",
 "words": 1189
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/02/kakimaze-mon-com-tron-yuzu-truyen-thong.html",
 "words": 999
 },
@@ -895,8 +896,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 11,
-"low": 36,
-"rewrite": 2,
+"low": 21,
+"rewrite": 17,
 "unknown": 0
 },
 "title": "Tổng hợp bài viết Văn hóa Nhật Bản"
@@ -950,7 +951,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2010
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/11/phan-biet-von-ieu-le-va-von-phap-inh.html",
 "words": 1015
 },
@@ -965,7 +966,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1334
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/12/quy-inh-ve-ieu-kien-cach-chia-loi-nhuan.html",
 "words": 1043
 },
@@ -1000,8 +1001,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 8,
-"low": 9,
-"rewrite": 1,
+"low": 7,
+"rewrite": 3,
 "unknown": 0
 },
 "title": "Tổng hợp bài viết pháp lý và thuế dành cho doanh nghiệp mới"
@@ -1010,7 +1011,7 @@ window.AGS_PILLAR_AUDIT = {
 "link_count": 10,
 "links": [
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/06/cong-thuc-tinh-thue-vat-nguoc.html",
 "words": 1199
 },
@@ -1020,9 +1021,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 620
 },
 {
-"level": "low",
+"level": "unknown",
 "url": "https://ketoan.ags-vina.com/2024/06/ieu-kien-ap-dung-thue-suat-0-thue-gtgt.html",
-"words": 1041
+"words": null
 },
 {
 "level": "low",
@@ -1040,7 +1041,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1360
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/12/thue-vat-va-cac-chien-luoc-quan-ly-thue.html",
 "words": 980
 },
@@ -1050,7 +1051,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2212
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2026/01/chinh-sach-thue-ap-dung-oi-voi-ho-kinh.html",
 "words": 860
 },
@@ -1065,9 +1066,9 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 1,
-"low": 6,
-"rewrite": 3,
-"unknown": 0
+"low": 2,
+"rewrite": 6,
+"unknown": 1
 },
 "title": "Tổng hợp các bài viết về Thuế giá trị gia tăng (GTGT)"
 },
@@ -1095,12 +1096,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2270
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/12/cac-truong-hop-khong-phai-nop-thue-nha.html",
 "words": 940
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/04/thue-nha-thau-nuoc-ngoai-co-uoc-khau.html",
 "words": 1050
 },
@@ -1120,7 +1121,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1422
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/05/ty-le-thue-nha-thau-moi-nhat-2025.html",
 "words": 1118
 },
@@ -1135,12 +1136,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2032
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/09/cach-tinh-va-khe-khai-thue-nha-thau.html",
 "words": 806
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/10/huong-dan-ke-khai-thue-nha-thau-nuoc.html",
 "words": 820
 },
@@ -1155,8 +1156,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 4,
-"low": 8,
-"rewrite": 3,
+"low": 3,
+"rewrite": 8,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết về Thuế nhà thầu nước ngoài (NTNN) - FCT"
@@ -1165,12 +1166,12 @@ window.AGS_PILLAR_AUDIT = {
 "link_count": 10,
 "links": [
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/05/thue-hai-quan-la-gi.html",
 "words": 895
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/06/khai-bao-hai-quan-la-gi-nhung-ieu-co.html",
 "words": 860
 },
@@ -1220,8 +1221,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 3,
-"low": 5,
-"rewrite": 2,
+"low": 3,
+"rewrite": 4,
 "unknown": 0
 },
 "title": "Tổng hợp những bài viết về Luật hải quan và DNCX"
@@ -1240,7 +1241,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 768
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/06/quy-inh-ve-tach-thua-hop-thua-at-theo.html",
 "words": 892
 },
@@ -1260,7 +1261,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 6621
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/07/bao-nhieu-tuoi-uoc-mo-ngan-hang-theo.html",
 "words": 1182
 },
@@ -1285,8 +1286,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 1,
 "good": 1,
-"low": 5,
-"rewrite": 2,
+"low": 3,
+"rewrite": 4,
 "unknown": 1
 },
 "title": "Tổng hợp bài viết pháp luật, đất đai, thuế & FDI tại Việt Nam | AGS"
@@ -1305,17 +1306,17 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1336
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/07/thue-luy-tien-la-gi-bieu-thue-luy-tien.html",
 "words": 1154
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/10/luong-bao-nhieu-nop-thue-tncn-2026-khi.html",
 "words": 990
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/06/huong-dan-chi-tiet-cach-ien-mau-20-k-th.html",
 "words": 906
 },
@@ -1350,8 +1351,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 0,
-"low": 7,
-"rewrite": 3,
+"low": 4,
+"rewrite": 6,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết liên quan đến thuế thu nhập cá nhân(TNCN)"
@@ -1365,12 +1366,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 3341
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/05/5-buoc-xay-dung-chan-dung-ung-vien.html",
 "words": 869
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2023/12/cach-e-so-huu-mot-chiec-cv-xin-xo.html",
 "words": 869
 },
@@ -1395,8 +1396,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 2,
-"low": 2,
-"rewrite": 0,
+"low": 0,
+"rewrite": 2,
 "unknown": 2
 },
 "title": "Tổng hợp các bài viết liên quan đến Phỏng vấn - CV"
@@ -1430,7 +1431,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": null
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/05/tong-hop-nhung-kien-thuc-quan-trong.html",
 "words": 941
 },
@@ -1440,7 +1441,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 3466
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2022/03/cach-tinh-luong-thu-viec-khi-lam-lam.html",
 "words": 1053
 },
@@ -1450,7 +1451,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": null
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2022/11/cach-tinh-luong-khi-nguoi-lao-ong-i.html",
 "words": 1063
 }
@@ -1460,8 +1461,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 2,
-"low": 5,
-"rewrite": 1,
+"low": 2,
+"rewrite": 4,
 "unknown": 2
 },
 "title": "Tổng hợp các bài viết về Bảng lương"
@@ -1490,7 +1491,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2530
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/09/rui-ro-phap-ly-khi-doanh-nghiep-thue.html",
 "words": 820
 },
@@ -1500,12 +1501,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 710
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/04/tai-sao-su-dung-dich-vu-ke-toan-la-xu.html",
 "words": 1172
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/02/hach-toan-mua-hang-trong-dich-vu-ke.html",
 "words": 1020
 },
@@ -1515,7 +1516,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 4209
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/12/top-5-cong-ty-kiem-toan-uy-tin-nhat-tai-Nghe-an.html",
 "words": 1162
 },
@@ -1555,8 +1556,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 2,
 "good": 5,
-"low": 8,
-"rewrite": 1,
+"low": 4,
+"rewrite": 5,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết về dịch vụ kế toán và dịch vụ kiểm toán."
@@ -1565,7 +1566,7 @@ window.AGS_PILLAR_AUDIT = {
 "link_count": 6,
 "links": [
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/06/nhung-phim-tat-excel-ma-ke-toan-nhat.html",
 "words": 1200
 },
@@ -1600,8 +1601,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 1,
-"low": 4,
-"rewrite": 1,
+"low": 3,
+"rewrite": 2,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết về Kỹ năng - Máy tính"
@@ -1620,7 +1621,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2317
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/08/tong-hop-cac-phim-tat-phan-mem-fast.html",
 "words": 958
 },
@@ -1640,8 +1641,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 1,
 "good": 2,
-"low": 2,
-"rewrite": 0,
+"low": 1,
+"rewrite": 1,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết về Phần mềm kế toán và ERP"
@@ -1650,7 +1651,7 @@ window.AGS_PILLAR_AUDIT = {
 "link_count": 5,
 "links": [
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/06/cong-thuc-tinh-thue-vat-nguoc.html",
 "words": 1199
 },
@@ -1660,9 +1661,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 620
 },
 {
-"level": "low",
+"level": "unknown",
 "url": "https://ketoan.ags-vina.com/2024/06/ieu-kien-ap-dung-thue-suat-0-thue-gtgt.html",
-"words": 1041
+"words": null
 },
 {
 "level": "low",
@@ -1680,9 +1681,9 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 0,
-"low": 3,
-"rewrite": 2,
-"unknown": 0
+"low": 1,
+"rewrite": 3,
+"unknown": 1
 },
 "title": "Tổng hợp các bài viết về Thuế giá trị gia tăng"
 },
@@ -1720,7 +1721,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2263
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/12/thue-suat-thue-tai-nguyen-hien-nay-la.html",
 "words": 956
 },
@@ -1730,7 +1731,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 791
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/12/ho-so-khai-thue-su-dung-at-nong-nghiep.html",
 "words": 1053
 },
@@ -1745,8 +1746,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 2,
-"low": 7,
-"rewrite": 1,
+"low": 5,
+"rewrite": 3,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết về thuế khác"
@@ -1890,22 +1891,22 @@ window.AGS_PILLAR_AUDIT = {
 "link_count": 10,
 "links": [
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2026/02/giai-ma-thue-tndn-quy-inh-phap-luat.html",
 "words": 1154
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/07/phan-biet-ma-so-thue-ca-nhan-va-ma-so.html",
 "words": 828
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/07/su-khac-biet-giua-doanh-thu-ke-toan-va.html",
 "words": 909
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2026/01/cac-muc-thue-thu-nhap-doanh-nghiep.html",
 "words": 918
 },
@@ -1930,7 +1931,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2240
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/10/ke-khai-thue-tndn-cho-thuong-mai-ien-tu.html",
 "words": 1029
 },
@@ -1945,8 +1946,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 3,
-"low": 7,
-"rewrite": 0,
+"low": 2,
+"rewrite": 5,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết liên quan đến thuế thu nhập doanh nghiệp(TNDN)"
@@ -1965,7 +1966,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 791
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/10/hoa-on-ien-tu-co-ma-xac-thuc-buoc-tien.html",
 "words": 890
 },
@@ -1980,7 +1981,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1781
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/08/nhung-sua-oi-bo-sung-theo-nghi-inh-so.html",
 "words": 897
 },
@@ -2015,8 +2016,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 3,
-"low": 6,
-"rewrite": 2,
+"low": 4,
+"rewrite": 4,
 "unknown": 0
 },
 "title": "Tổng hợp các thông tin liên quan đến Thuế - Luật hóa đơn"
@@ -2042,15 +2043,15 @@ window.AGS_PILLAR_AUDIT = {
 {
 "level": "good",
 "url": "https://ketoan.ags-vina.com/2024/05/oi-tuong-kiem-toan-la-gi-tim-hieu-cac.html",
-"words": 2134
+"words": 2156
+},
+{
+"level": "good",
+"url": "https://ketoan.ags-vina.com/2025/04/kiem-toan-cong-nghe-thong-tin-tu-buoc.html",
+"words": 2032
 },
 {
 "level": "rewrite",
-"url": "https://ketoan.ags-vina.com/2024/06/kiem-toan-cntt-it-audit-bao-ve-he-thong.html",
-"words": 756
-},
-{
-"level": "low",
 "url": "https://ketoan.ags-vina.com/2024/05/muc-tieu-tong-cua-kiem-toan-vien-va.html",
 "words": 811
 },
@@ -2075,7 +2076,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1644
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/04/chia-se-kinh-nghiem-kiem-toan-tien-mat.html",
 "words": 1051
 },
@@ -2090,18 +2091,18 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1769
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/03/cac-lien-oan-quoc-te-cua-ke-toan-ifac.html",
 "words": 1098
 }
 ],
-"pillar_words": 2066,
+"pillar_words": 2048,
 "published": "2024-07-03T13:30:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 7,
-"low": 5,
-"rewrite": 2,
+"good": 8,
+"low": 2,
+"rewrite": 4,
 "unknown": 0
 },
 "title": "Tổng hợp các tin tức và thông tin liên quan đến kiểm toán."
@@ -2200,95 +2201,11 @@ window.AGS_PILLAR_AUDIT = {
 },
 "title": "Tổng hợp tin tức và thông tin về kế toán"
 },
-"https://ketoan.ags-vina.com/2024/08/tong-hop-cac-chinh-sach-uu-ai-ho-tro-au.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 2679,
-"published": "2024-08-06T08:30:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp các chính sách ưu đãi, hỗ trợ đầu tư trong khu kinh tế "
-},
-"https://ketoan.ags-vina.com/2024/10/bao-cao-tong-hop-tinh-hinh-gia-han-thue.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1294,
-"published": "2024-10-02T17:04:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Báo cáo tổng hợp tình hình gia hạn thuế tiêu thụ đặc biệt"
-},
-"https://ketoan.ags-vina.com/2024/10/tong-hop-ly-do-huy-to-khai-hai-quan.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1209,
-"published": "2024-10-10T08:50:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp lý do hủy tờ khai hải quan theo yêu cầu và thủ tục hủy tờ khai hải quan đối với người khai hải quan theo quy định của pháp luật hiện hành"
-},
-"https://ketoan.ags-vina.com/2024/11/tong-hop-cac-truong-hop-uoc-mien-thue.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1371,
-"published": "2024-11-06T08:19:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp các trường hợp được miễn thuế thu nhập doanh nghiệp 2024?"
-},
-"https://ketoan.ags-vina.com/2024/11/tong-hop-hanh-vi-su-dung-hoa-on-khong.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1387,
-"published": "2024-11-19T14:55:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp hành vi sử dụng hóa đơn không hợp pháp và sử dụng không hợp pháp hóa đơn"
-},
-"https://ketoan.ags-vina.com/2025/05/tong-hop-chinh-sach-thue-co-hieu-luc-tu.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1562,
-"published": "2025-05-20T14:49:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp chính sách thuế có hiệu lực từ ngày 01/07/2025"
-},
 "https://ketoan.ags-vina.com/2025/12/tong-hop-cac-bai-lien-quan-en-thue-quoc-te.html": {
 "link_count": 10,
 "links": [
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2026/01/qdmtt-la-gi-ho-so-khai-thue-theo-quy.html",
 "words": 1031
 },
@@ -2303,7 +2220,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 541
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/10/thue-toi-thieu-toan-cau-theo-nghi-quyet.html",
 "words": 949
 },
@@ -2333,7 +2250,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 781
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/10/chuyen-gia-trong-doanh-nghiep-fdi-thuc.html",
 "words": 1018
 }
@@ -2343,8 +2260,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 2,
-"low": 6,
-"rewrite": 2,
+"low": 3,
+"rewrite": 5,
 "unknown": 0
 },
 "title": "Tổng hợp các bài liên quan đến Thuế Quốc Tế"
@@ -2358,9 +2275,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2160
 },
 {
-"level": "low",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2024/07/phap-luat-ve-hoat-ong-mua-ban-va-sap.html",
-"words": 1430
+"words": 2224
 },
 {
 "level": "good",
@@ -2378,12 +2295,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1211
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/09/thu-tuc-au-tu-ac-biet-nha-au-tu-can-ap.html",
 "words": 829
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/09/hieu-ro-cac-phuong-phap-m-lien-quan-en.html",
 "words": 995
 },
@@ -2403,12 +2320,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": null
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/08/cac-thuat-ngu-quan-trong-trong-tai.html",
 "words": 1047
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/07/cac-thuat-ngu-quan-trong-trong-giao.html",
 "words": 884
 }
@@ -2417,9 +2334,9 @@ window.AGS_PILLAR_AUDIT = {
 "published": "2026-01-28T13:06:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 4,
-"low": 7,
-"rewrite": 0,
+"good": 5,
+"low": 2,
+"rewrite": 4,
 "unknown": 1
 },
 "title": "Tổng hợp các bài viết pháp lý liên quan đến M&A"
@@ -2428,12 +2345,12 @@ window.AGS_PILLAR_AUDIT = {
 "link_count": 10,
 "links": [
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/03/cac-giay-to-chung-minh-oi-voi-nguoi-lao_18.html",
 "words": 1053
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/03/cac-vi-tri-cong-viec-cua-nguoi-lao-ong.html",
 "words": 1048
 },
@@ -2443,7 +2360,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1751
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/03/giay-phep-lao-ong-cho-lao-ong-ky-thuat.html",
 "words": 1189
 },
@@ -2468,7 +2385,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1287
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/07/thu-nhap-cua-nguoi-nuoc-ngoai-lam-viec.html",
 "words": 1165
 },
@@ -2483,8 +2400,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 0,
-"low": 10,
-"rewrite": 0,
+"low": 6,
+"rewrite": 4,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết liên quan đến LUẬT LAO ĐỘNG NƯỚC NGOÀI"
@@ -2588,7 +2505,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2410
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/07/huong-dan-ve-chinh-sach-tien-thue-at.html",
 "words": 1083
 },
@@ -2643,8 +2560,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 4,
-"low": 10,
-"rewrite": 1,
+"low": 9,
+"rewrite": 2,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết pháp lý liên quan đến Luật Đầu Tư "
@@ -2668,7 +2585,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1442
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/10/inh-cong-ung-luat-cong-nhan-phai-tuan.html",
 "words": 1191
 },
@@ -2678,7 +2595,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 622
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/10/phan-biet-thoa-uoc-lao-ong-tap-va-hop.html",
 "words": 1020
 },
@@ -2703,7 +2620,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1401
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/11/ieu-kien-va-thu-tuc-cap-giay-phep-hoat.html",
 "words": 1113
 },
@@ -2728,12 +2645,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1266
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/04/truong-hop-nao-bi-xu-ly-ky-luat-ha-bac.html",
 "words": 915
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/03/ang-ky-noi-quy-lao-ong-oi-voi-doanh.html",
 "words": 1072
 },
@@ -2743,7 +2660,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 620
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/11/muc-ong-bao-hiem-tai-nan-lao-ong-tu.html",
 "words": 1012
 }
@@ -2753,8 +2670,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 0,
-"low": 15,
-"rewrite": 4,
+"low": 9,
+"rewrite": 10,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết pháp lý liên quan tới Luật Lao động"
@@ -2778,7 +2695,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1546
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/06/co-can-lap-hoa-on-oi-voi-hang-hoa-dung.html",
 "words": 974
 },
@@ -2818,7 +2735,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2010
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/10/he-thuoc-luat-quoc-tich-cua-phap-nhan.html",
 "words": 967
 }
@@ -2828,8 +2745,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 1,
 "good": 5,
-"low": 5,
-"rewrite": 1,
+"low": 3,
+"rewrite": 3,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết pháp lý liên quan tới Luật Thương mại (Phần 1)"
@@ -2838,7 +2755,7 @@ window.AGS_PILLAR_AUDIT = {
 "link_count": 10,
 "links": [
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/12/thu-tu-uu-tien-thanh-toan-va-thu-tu.html",
 "words": 861
 },
@@ -2848,7 +2765,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 4493
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/12/quoc-hoi-xem-xet-luat-pha-san-sua-oi.html",
 "words": 958
 },
@@ -2868,7 +2785,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 6964
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/12/quy-inh-ve-nop-on-xu-ly-va-tra-lai-on.html",
 "words": 1072
 },
@@ -2893,8 +2810,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 2,
 "good": 2,
-"low": 5,
-"rewrite": 1,
+"low": 2,
+"rewrite": 4,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết pháp lý liên quan đến Luật Phá sản"
@@ -2903,7 +2820,7 @@ window.AGS_PILLAR_AUDIT = {
 "link_count": 10,
 "links": [
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/12/ang-ky-kieu-dang-cong-nghiep.html",
 "words": 1107
 },
@@ -2923,7 +2840,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1843
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/11/tham-quyen-ky-ket-hop-ong.html",
 "words": 1033
 },
@@ -2933,12 +2850,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1875
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/10/mot-so-cau-hoi-ve-nhuong-quyen-thuong.html",
 "words": 889
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/08/ieu-kien-kinh-doanh-bat-ong-san-tu.html",
 "words": 1075
 },
@@ -2948,7 +2865,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1649
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/09/xuat-hoa-on-gia-cong-cho-doanh-nghiep.html",
 "words": 1180
 }
@@ -2958,8 +2875,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 1,
-"low": 9,
-"rewrite": 0,
+"low": 4,
+"rewrite": 5,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết pháp lý liên quan tới Luật Thương mại (Phần 2)"
@@ -2973,7 +2890,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 3260
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/07/onboarding-la-gi-quy-trinh-giup-nhan.html",
 "words": 1171
 },
@@ -2983,7 +2900,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": null
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/03/phuong-phap-pomodoro-bi-quyet-tang-nang.html",
 "words": 1110
 },
@@ -3023,8 +2940,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 3,
-"low": 2,
-"rewrite": 2,
+"low": 0,
+"rewrite": 4,
 "unknown": 3
 },
 "title": "Tổng hợp các bài viết về Kỹ năng Quản lý - Lãnh đạo"
@@ -3058,7 +2975,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 726
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/07/ho-kinh-doanh-day-them-co-doanh-thu-bao.html",
 "words": 861
 },
@@ -3073,12 +2990,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 44
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/03/bo-tai-chinh-giao-dich-tai-san-so-se.html",
 "words": 968
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/10/chi-phi-hop-ly-hop-le-khi-tinh-thue.html",
 "words": 823
 },
@@ -3088,7 +3005,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 748
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/08/hoan-thue-gia-tri-gia-tang-gtgt-oi-voi.html",
 "words": 907
 },
@@ -3108,7 +3025,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1305
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/04/nop-thua-thue-gia-tri-gia-tang-thi-co.html",
 "words": 1039
 },
@@ -3118,7 +3035,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 680
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/04/lam-nao-e-uoc-hoan-thue-tu-ong.html",
 "words": 1039
 },
@@ -3128,7 +3045,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 751
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/11/canh-bao-ve-cac-chieu-tro-lua-ao-dich.html",
 "words": 1103
 },
@@ -3138,7 +3055,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1328
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/11/hang-tam-nhap-khau-tai-xuat-khau-co-uoc.html",
 "words": 945
 },
@@ -3148,12 +3065,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1512
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/12/phan-biet-thue-suat-thong-thuong-thue.html",
 "words": 849
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2026/01/hang-mien-thue-nhap-khau-ai-ang-thuc-su.html",
 "words": 936
 }
@@ -3163,8 +3080,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 4,
-"low": 15,
-"rewrite": 6,
+"low": 5,
+"rewrite": 16,
 "unknown": 0
 },
 "title": "Tổng hợp Ưu đãi – Miễn – Hoàn thuế 2025 | GTGT, TNCN, TNDN đầy đủ nhất"
@@ -3238,12 +3155,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1668
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2026/01/nhung-truong-hop-nguoi-lao-ong-uoc-nghi.html",
 "words": 930
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/12/luong-huu-khu-vuc-nha-nuoc-tim-hieu.html",
 "words": 1100
 },
@@ -3263,7 +3180,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 636
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/10/inh-cong-ung-luat-cong-nhan-phai-tuan.html",
 "words": 1191
 },
@@ -3288,8 +3205,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 1,
-"low": 7,
-"rewrite": 2,
+"low": 4,
+"rewrite": 5,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết pháp lý liên quan tới Luật Lao động"
@@ -3313,7 +3230,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1336
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/09/quy-inh-phap-luat-ve-cach-at-ten-doanh.html",
 "words": 1195
 },
@@ -3338,7 +3255,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2135
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/11/phan-biet-von-ieu-le-va-von-phap-inh.html",
 "words": 1015
 },
@@ -3348,12 +3265,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1974
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/12/quy-inh-ve-ieu-kien-cach-chia-loi-nhuan.html",
 "words": 1043
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/12/quy-inh-ve-khai-niem-va-cac-hinh-thuc.html",
 "words": 1049
 },
@@ -3378,8 +3295,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 3,
-"low": 11,
-"rewrite": 1,
+"low": 7,
+"rewrite": 5,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết pháp lý liên quan tới Luật Doanh nghiệp"
@@ -3393,7 +3310,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1375
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/11/chu-ho-kinh-doanh-co-uoc-ghi-nhan-thoi.html",
 "words": 1200
 },
@@ -3408,7 +3325,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 767
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/12/truy-thu-thue-ho-kinh-doanh-quy-inh-va.html",
 "words": 937
 },
@@ -3428,7 +3345,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 764
 },
 {
-"level": "low",
+"level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/08/ho-kinh-doanh-tu-choi-nhan-chuyen-khoan.html",
 "words": 1082
 },
@@ -3443,8 +3360,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 1,
-"low": 5,
-"rewrite": 4,
+"low": 2,
+"rewrite": 7,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết về Thuế Hộ kinh doanh"
