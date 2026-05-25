@@ -1,6 +1,6 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-05-25 04:44:37 ICT)
-// ピラーポスト数: 83 件
+// 自動生成: GitHub Actions (2026-05-25 09:02:53 ICT)
+// ピラーポスト数: 67 件
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
 // 手動編集しないでください。
@@ -466,20 +466,6 @@ window.AGS_PILLAR_AUDIT = {
 },
 "title": "Tổng hợp các thông tin về ngôn ngữ Nhật "
 },
-"https://ketoan.ags-vina.com/2024/05/tong-hop-danh-sach-phim-tat-trong.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1315,
-"published": "2024-05-27T14:38:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp danh sách phím tắt trong Google Sheets"
-},
 "https://ketoan.ags-vina.com/2024/05/tong-hop-nhung-bai-viet-ve-nhan-su.html": {
 "link_count": 5,
 "links": [
@@ -589,20 +575,6 @@ window.AGS_PILLAR_AUDIT = {
 "unknown": 0
 },
 "title": "Tổng hợp những bài viết về Ngành Thiết kế"
-},
-"https://ketoan.ags-vina.com/2024/06/ke-toan-tong-hop.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1322,
-"published": "2024-06-18T13:24:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "[KTNB] Tìm hiểu về vị trí Kế toán tổng hợp"
 },
 "https://ketoan.ags-vina.com/2024/06/kpc-tong-hop-nhung-van-e-lien-quan-en.html": {
 "link_count": 10,
@@ -1267,20 +1239,6 @@ window.AGS_PILLAR_AUDIT = {
 "unknown": 0
 },
 "title": "[Tổng hợp] Những lần giảm VAT từ 10% xuống 8%"
-},
-"https://ketoan.ags-vina.com/2024/07/ke-toan-can-nho-gi-trong-thang-7-nay.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1590,
-"published": "2024-07-16T16:56:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "[KTNB] Tổng hợp các công việc kế toán cần làm trong tháng 7/2024"
 },
 "https://ketoan.ags-vina.com/2024/07/tong-hop-cac-bai-viet-lien-quan-en-luat.html": {
 "link_count": 10,
@@ -2261,20 +2219,6 @@ window.AGS_PILLAR_AUDIT = {
 },
 "title": "Tổng hợp tin tức và thông tin về kế toán"
 },
-"https://ketoan.ags-vina.com/2024/07/tong-hop-tu-en-z-nhung-ieu-can-biet-ve.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1262,
-"published": "2024-07-17T13:00:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "[KTNB] Tổng hợp từ A đến Z những điều cần biết về công việc của kế toán viên"
-},
 "https://ketoan.ags-vina.com/2024/08/chuan-muc-so-05-bat-ong-san-au-tu.html": {
 "link_count": 0,
 "links": [],
@@ -2288,20 +2232,6 @@ window.AGS_PILLAR_AUDIT = {
 "unknown": 0
 },
 "title": "Tổng hợp các phím tắt phần mềm FAST"
-},
-"https://ketoan.ags-vina.com/2024/08/ke-toan-tong-hop-khac-gi-ke-toan-truong.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 954,
-"published": "2024-08-21T17:11:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Phân Biệt Kế Toán Tổng Hợp Và Kế Toán Trưởng – Vai Trò, Trách Nhiệm Và Quyền Hạn"
 },
 "https://ketoan.ags-vina.com/2024/08/tong-hop-cac-chinh-sach-uu-ai-ho-tro-au.html": {
 "link_count": 0,
@@ -2471,48 +2401,6 @@ window.AGS_PILLAR_AUDIT = {
 },
 "title": "Tổng hợp chính sách thuế có hiệu lực từ ngày 01/07/2025"
 },
-"https://ketoan.ags-vina.com/2025/06/hoan-thanh-viec-tong-hop-ket-qua-kiem.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 906,
-"published": "2025-06-17T09:42:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Hoàn thành việc tổng hợp kết quả kiểm kê tài sản công vào 31/07/2025"
-},
-"https://ketoan.ags-vina.com/2025/06/tong-hop-tai-lieu-hoc-power-query-tu-co.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 892,
-"published": "2025-06-11T14:27:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp tài liệu học power query từ cơ bản cho người mới"
-},
-"https://ketoan.ags-vina.com/2025/08/bi-kip-e-tro-thanh-chuyen-vien-nhan-su.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 2706,
-"published": "2025-08-25T08:42:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Bí Kíp Để Trở Thành Chuyên Viên Nhân Sự Tổng Hợp (General HR) Xuất Sắc"
-},
 "https://ketoan.ags-vina.com/2025/08/tong-hop-cac-khoan-thu-nhap-chiu-thue.html": {
 "link_count": 0,
 "links": [],
@@ -2526,20 +2414,6 @@ window.AGS_PILLAR_AUDIT = {
 "unknown": 0
 },
 "title": "Tổng hợp các khoản thu nhập chịu thuế thu nhập doanh nghiệp từ ngày 01/10/2025"
-},
-"https://ketoan.ags-vina.com/2025/08/tong-hop-cac-nghi-inh-giam-2-thue-gtgt.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 604,
-"published": "2025-08-07T08:19:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp các Nghị định giảm 2% thuế GTGT qua các năm mới nhất"
 },
 "https://ketoan.ags-vina.com/2025/09/thong-tu-322025tt-btc-tong-hop-6-iem.html": {
 "link_count": 0,
@@ -2569,20 +2443,6 @@ window.AGS_PILLAR_AUDIT = {
 },
 "title": "Tổng hợp 6 điểm mới Nghị định 105/2025/NĐ-CP về Phòng Cháy Chữa Cháy"
 },
-"https://ketoan.ags-vina.com/2025/10/phieu-ke-toan-la-gi-tong-hop-cac-mau.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1353,
-"published": "2025-10-14T10:02:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Phiếu kế toán là gì? Tổng hợp các mẫu phiếu kế toán theo Thông tư 200"
-},
 "https://ketoan.ags-vina.com/2025/10/tong-hop-cac-khoan-chi-uoc-tru-khi-tinh.html": {
 "link_count": 0,
 "links": [],
@@ -2610,62 +2470,6 @@ window.AGS_PILLAR_AUDIT = {
 "unknown": 0
 },
 "title": "Tổng Hợp Các Đối Tượng Chịu Thuế GTGT 0% Theo Quy Định Mới Nhất (Áp dụng từ 01/07/2025)"
-},
-"https://ketoan.ags-vina.com/2025/10/tong-hop-chinh-sach-ho-tro-doanh-nghiep.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 2935,
-"published": "2025-10-27T09:29:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp chính sách hỗ trợ doanh nghiệp nhỏ và vừa mới nhất 2025"
-},
-"https://ketoan.ags-vina.com/2025/10/tong-hop-iem-moi-thong-tu-992025tt-btc.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 645,
-"published": "2025-10-31T09:02:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp điểm mới Thông tư 99/2025/TT-BTC – Thay thế Thông tư 200/2014/TT-BTC về chế độ kế toán doanh nghiệp"
-},
-"https://ketoan.ags-vina.com/2025/10/tong-hop-ma-thu-tuc-muc-phat-cham-nop.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 626,
-"published": "2025-10-14T09:06:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp mã thủ tục & mức phạt chậm nộp tờ khai thuế Quý 3/2025"
-},
-"https://ketoan.ags-vina.com/2025/10/tong-hop-nhung-van-ban-phap-ly-ve-hoa.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 563,
-"published": "2025-10-31T14:08:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp những văn bản pháp lý về hóa đơn điện tử còn hiệu lực 2025"
 },
 "https://ketoan.ags-vina.com/2025/10/tong-hop-quy-inh-ve-lap-quan-ly-va-su.html": {
 "link_count": 0,
@@ -3566,20 +3370,6 @@ window.AGS_PILLAR_AUDIT = {
 },
 "title": "Tổng hợp Ưu đãi – Miễn – Hoàn thuế 2025 | GTGT, TNCN, TNDN đầy đủ nhất"
 },
-"https://ketoan.ags-vina.com/2025/12/tong-hop-iem-ang-chu-y-tai-nghi-inh.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1298,
-"published": "2025-12-19T22:12:33+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp điểm đáng chú ý tại Nghị định 117/2025 về thuế đối với hộ, cá nhân kinh doanh online"
-},
 "https://ketoan.ags-vina.com/2025/12/tong-hop-nhung-bai-viet-ve-ky-nang-blog.html": {
 "link_count": 5,
 "links": [
@@ -3873,20 +3663,6 @@ window.AGS_PILLAR_AUDIT = {
 "unknown": 0
 },
 "title": "Top 10 Công ty xuất khẩu lao động lâu năm nhất Việt Nam"
-},
-"https://ketoan.ags-vina.com/2026/02/esg-trong-doanh-nghiep-la-gi-ba-tru-cot.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 4075,
-"published": "2026-02-03T10:07:07+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "ESG trong doanh nghiệp là gì? Ba trụ cột cốt lõi quyết định phát triển bền vững"
 },
 "https://ketoan.ags-vina.com/2026/02/phan-biet-giua-sai-sot-va-gian-lan-bao.html": {
 "link_count": 0,
