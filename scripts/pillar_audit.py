@@ -33,8 +33,13 @@ BLOG_ID = os.environ.get('BLOGGER_BLOG_ID', '').strip()
 OUTPUT_FILE = 'pillar_audit.js'
 WORD_COUNTS_FILE = 'word_counts.js'
 
-# 語数しきい値 (word_counts と同一)
-T_REWRITE = 800
+# 語数しきい値 (前端ツール window.AGS_BLOG_TOOL と同一)
+# ★ 2026-05-25: T_REWRITE を 800 → 1200 に変更 (新ルール)
+#   ≤1200  : rewrite (赤)
+#   1200-1999: low (黄)
+#   2000-4999: good (緑)
+#   ≥5000  : excellent (紫)
+T_REWRITE = 1200
 T_STANDARD = 2000
 T_EXCELLENT = 5000
 
@@ -267,6 +272,10 @@ def write_pillar_audit_js(audit_data):
         "// AGS ピラーポスト検証データ\n"
         "// 自動生成: GitHub Actions (" + now + " ICT)\n"
         "// ピラーポスト数: " + str(len(audit_data)) + " 件\n"
+        "// 語数しきい値: rewrite≤" + str(T_REWRITE)
+        + " / low<" + str(T_STANDARD)
+        + " / good<" + str(T_EXCELLENT)
+        + " / excellent≥" + str(T_EXCELLENT) + "\n"
         "//\n"
         "// このファイルは GitHub Actions で毎日自動更新されます。\n"
         "// 手動編集しないでください。\n"
@@ -293,7 +302,7 @@ def print_summary(audit_data):
     if not audit_data:
         return
     print()
-    print("📊 検証サマリー")
+    print("📊 検証サマリー (しきい値 T_REWRITE=" + str(T_REWRITE) + ")")
     print("-" * 60)
 
     total_links = 0
