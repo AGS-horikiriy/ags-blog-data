@@ -1,6 +1,6 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-05-26 13:36:39 ICT)
-// ピラーポスト数: 46 件
+// 自動生成: GitHub Actions (2026-05-26 21:32:24 ICT)
+// ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
@@ -1513,7 +1513,7 @@ window.AGS_PILLAR_AUDIT = {
 {
 "level": "good",
 "url": "https://ketoan.ags-vina.com/2024/07/ung-dung-cua-cac-loai-thu-tu-vao-kiem.html",
-"words": 4209
+"words": 4091
 },
 {
 "level": "rewrite",
@@ -2023,7 +2023,7 @@ window.AGS_PILLAR_AUDIT = {
 "title": "Tổng hợp các thông tin liên quan đến Thuế - Luật hóa đơn"
 },
 "https://ketoan.ags-vina.com/2024/07/tong-hop-cac-tin-tuc-va-thong-tin-lien-quan-den-kiem-toan.html": {
-"link_count": 14,
+"link_count": 13,
 "links": [
 {
 "level": "good",
@@ -2051,29 +2051,24 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2032
 },
 {
-"level": "rewrite",
-"url": "https://ketoan.ags-vina.com/2024/05/muc-tieu-tong-cua-kiem-toan-vien-va.html",
-"words": 811
+"level": "good",
+"url": "https://ketoan.ags-vina.com/2024/03/phan-biet-cac-loai-hinh-kiem-toan.html",
+"words": 2130
 },
 {
 "level": "good",
 "url": "https://ketoan.ags-vina.com/2024/03/tim-hieu-ve-bao-cao-tai-chinh-uoc-kiem.html",
-"words": 2250
+"words": 2357
 },
 {
 "level": "good",
 "url": "https://ketoan.ags-vina.com/2024/07/ung-dung-cua-cac-loai-thu-tu-vao-kiem.html",
-"words": 4209
+"words": 4091
 },
 {
 "level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/02/6-kinh-nghiem-vuot-qua-mua-kiem-toan.html",
 "words": 488
-},
-{
-"level": "low",
-"url": "https://ketoan.ags-vina.com/2024/03/phan-biet-cac-loai-hinh-kiem-toan.html",
-"words": 1644
 },
 {
 "level": "rewrite",
@@ -2096,30 +2091,16 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1098
 }
 ],
-"pillar_words": 2048,
+"pillar_words": 1890,
 "published": "2024-07-03T13:30:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 8,
-"low": 2,
-"rewrite": 4,
+"good": 9,
+"low": 1,
+"rewrite": 3,
 "unknown": 0
 },
 "title": "Tổng hợp các tin tức và thông tin liên quan đến kiểm toán."
-},
-"https://ketoan.ags-vina.com/2024/07/tong-hop-cac-viec-ke-toan-can-lam-khi.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 1872,
-"published": "2024-07-25T11:12:00+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Tổng hợp các việc kế toán cần làm khi công ty mới thành lập"
 },
 "https://ketoan.ags-vina.com/2024/07/tong-hop-tin-tuc-va-thong-tin-ve-ke-toan.html": {
 "link_count": 13,
@@ -3365,19 +3346,5 @@ window.AGS_PILLAR_AUDIT = {
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết về Thuế Hộ kinh doanh"
-},
-"https://ketoan.ags-vina.com/2026/01/top-10-cong-ty-xuat-khau-lao-ong-lau.html": {
-"link_count": 0,
-"links": [],
-"pillar_words": 4069,
-"published": "2026-01-14T17:57:40+07:00",
-"summary": {
-"excellent": 0,
-"good": 0,
-"low": 0,
-"rewrite": 0,
-"unknown": 0
-},
-"title": "Top 10 Công ty xuất khẩu lao động lâu năm nhất Việt Nam"
 }
 };
