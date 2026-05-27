@@ -1,6 +1,6 @@
 // AGS Blog 語数データ
-// 自動生成: GitHub Actions (2026-05-27 05:15:16 ICT)
-// データ件数: 8,995 件
+// 自動生成: GitHub Actions (2026-05-27 09:02:49 ICT)
+// データ件数: 8,992 件
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
 // 手動編集しないでください。
@@ -4853,7 +4853,6 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2025/02/co-phai-ong-thue-thu-nhap-doanh-nghiep.html": 1297,
 "https://ketoan.ags-vina.com/2025/02/com-vang-ohan-mot-mon-co-lich-su-at-biet.html": 716,
 "https://ketoan.ags-vina.com/2025/02/cong-ty-tnhh-ke-toan-kiem-toan-ags-nam.html": 1552,
-"https://ketoan.ags-vina.com/2025/02/cong-ty-tnhh-ke-toan-kiem-toan-ags-nam_25.html": 1652,
 "https://ketoan.ags-vina.com/2025/02/cuon-uong-kach-menh.html": 1482,
 "https://ketoan.ags-vina.com/2025/02/cuu-pham-lien-hoa-chua-giam.html": 1597,
 "https://ketoan.ags-vina.com/2025/02/cuu-vi-than-cong.html": 2209,
@@ -7264,7 +7263,6 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2025/11/tai-san-so-inh-danh-inh-gia-inh-quyen.html": 1254,
 "https://ketoan.ags-vina.com/2025/11/tai-san-so-khai-niem-va-phan-loai-theo.html": 1507,
 "https://ketoan.ags-vina.com/2025/11/tai-san-so-trong-thoi-ai-so-ban-biet-ve.html": 929,
-"https://ketoan.ags-vina.com/2025/11/tai-san-so-trong-thoi-ai-so-co-hoi-rui.html": 298,
 "https://ketoan.ags-vina.com/2025/11/tai-san-so-xu-huong-tat-yeu-nam-2025-va.html": 740,
 "https://ketoan.ags-vina.com/2025/11/tai-sao-doanh-nghiep-can-kiem-toan-noi.html": 885,
 "https://ketoan.ags-vina.com/2025/11/tai-sao-kiem-toan-noi-bo-lai-quan-trong.html": 511,
@@ -7288,7 +7286,6 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2025/11/tien-ao-co-phai-la-tien-that-goc-nhin.html": 931,
 "https://ketoan.ags-vina.com/2025/11/tien-ao-va-cac-khai-niem-tien-te-de-gay.html": 959,
 "https://ketoan.ags-vina.com/2025/11/tien-ao-va-nhung-thach-thuc-oi-voi-cong.html": 2335,
-"https://ketoan.ags-vina.com/2025/11/tien-thuong-co-uoc-tinh-vao-tien-luong.html": 1430,
 "https://ketoan.ags-vina.com/2025/11/tim-hieu-phuc-loi-lao-ong-va-nhung-iem.html": 626,
 "https://ketoan.ags-vina.com/2025/11/to-chuc-hoat-ong-thi-hanh-dan-su-tai.html": 8215,
 "https://ketoan.ags-vina.com/2025/11/token-hoa-tai-san-thuc-rwa-khi-bat-ong.html": 719,
