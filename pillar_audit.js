@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-05-27 13:53:43 ICT)
+// 自動生成: GitHub Actions (2026-05-27 19:10:41 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -253,7 +253,7 @@ window.AGS_PILLAR_AUDIT = {
 "title": "Tổng hợp các bài viết về nhà cung cấp"
 },
 "https://ketoan.ags-vina.com/2024/05/tong-hop-cac-bai-viet-ve-tai-chinh.html": {
-"link_count": 14,
+"link_count": 13,
 "links": [
 {
 "level": "low",
@@ -291,11 +291,6 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1324
 },
 {
-"level": "unknown",
-"url": "https://ketoan.ags-vina.com/2025/03/kien-thuc-co-ban-ve-chung-khoan.html",
-"words": null
-},
-{
 "level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/04/ty-suat-loi-nhuan-chi-so-quan-trong-e.html",
 "words": 1011
@@ -326,14 +321,14 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1071
 }
 ],
-"pillar_words": 2298,
+"pillar_words": 2170,
 "published": "2024-05-22T14:11:00+07:00",
 "summary": {
 "excellent": 0,
 "good": 2,
 "low": 4,
 "rewrite": 7,
-"unknown": 1
+"unknown": 0
 },
 "title": "Tổng hợp các bài viết về Tài chính nâng cao"
 },
@@ -421,9 +416,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 484
 },
 {
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2024/05/y-nghia-cach-su-dung-va-cac-cau-vi-du_0689180505.html",
-"words": 689
+"words": 2339
 },
 {
 "level": "rewrite",
@@ -451,18 +446,18 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1414
 },
 {
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2024/04/y-nghia-cach-su-dung-va-cac-vi-du-ve.html",
-"words": 601
+"words": 2508
 }
 ],
 "pillar_words": 3832,
 "published": "2024-05-17T14:02:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 2,
+"good": 4,
 "low": 8,
-"rewrite": 13,
+"rewrite": 11,
 "unknown": 0
 },
 "title": "Tổng hợp các thông tin về ngôn ngữ Nhật "
@@ -2036,9 +2031,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 4091
 },
 {
-"level": "rewrite",
+"level": "unknown",
 "url": "https://ketoan.ags-vina.com/2024/02/6-kinh-nghiem-vuot-qua-mua-kiem-toan.html",
-"words": 488
+"words": null
 },
 {
 "level": "rewrite",
@@ -2067,8 +2062,8 @@ window.AGS_PILLAR_AUDIT = {
 "excellent": 0,
 "good": 9,
 "low": 1,
-"rewrite": 3,
-"unknown": 0
+"rewrite": 2,
+"unknown": 1
 },
 "title": "Tổng hợp các tin tức và thông tin liên quan đến kiểm toán."
 },
@@ -2251,9 +2246,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2581
 },
 {
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/09/hieu-ro-cac-phuong-phap-m-lien-quan-en.html",
-"words": 995
+"words": 2604
 },
 {
 "level": "good",
@@ -2276,18 +2271,18 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1047
 },
 {
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/07/cac-thuat-ngu-quan-trong-trong-giao.html",
-"words": 884
+"words": 2680
 }
 ],
-"pillar_words": 2213,
+"pillar_words": 2232,
 "published": "2026-01-28T13:06:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 6,
+"good": 8,
 "low": 2,
-"rewrite": 3,
+"rewrite": 1,
 "unknown": 1
 },
 "title": "Tổng hợp các bài viết pháp lý liên quan đến M&A"
@@ -2833,7 +2828,7 @@ window.AGS_PILLAR_AUDIT = {
 "title": "Tổng hợp các bài viết pháp lý liên quan tới Luật Thương mại (Phần 2)"
 },
 "https://ketoan.ags-vina.com/2025/12/tong-hop-cac-bai-viet-ve-ky-nang-quan-ly-lanh-dao.html": {
-"link_count": 10,
+"link_count": 7,
 "links": [
 {
 "level": "good",
@@ -2844,11 +2839,6 @@ window.AGS_PILLAR_AUDIT = {
 "level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/07/onboarding-la-gi-quy-trinh-giup-nhan.html",
 "words": 1171
-},
-{
-"level": "unknown",
-"url": "https://ketoan.ags-vina.com/2025/07/coaching-va-mentoring-trong-doanh.html",
-"words": null
 },
 {
 "level": "rewrite",
@@ -2874,26 +2864,16 @@ window.AGS_PILLAR_AUDIT = {
 "level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/11/ke-toan-quan-tri-nguoi-ban-ong-hanh-cua.html",
 "words": 772
-},
-{
-"level": "unknown",
-"url": "https://ketoan.ags-vina.com/2025/08/m-giai-ma-cac-cum-tu-dung-trong-phong.html",
-"words": null
-},
-{
-"level": "unknown",
-"url": "https://ketoan.ags-vina.com/2024/10/hr-manager-la-gi-vai-tro-va-trach-nhiem.html",
-"words": null
 }
 ],
-"pillar_words": 1866,
+"pillar_words": 1209,
 "published": "2025-12-24T15:37:00+07:00",
 "summary": {
 "excellent": 0,
 "good": 3,
 "low": 0,
 "rewrite": 4,
-"unknown": 3
+"unknown": 0
 },
 "title": "Tổng hợp các bài viết về Kỹ năng Quản lý - Lãnh đạo"
 },
