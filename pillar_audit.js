@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-05-28 13:42:46 ICT)
+// 自動生成: GitHub Actions (2026-05-28 19:18:38 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -981,17 +981,17 @@ window.AGS_PILLAR_AUDIT = {
 "words": 628
 },
 {
-"level": "low",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/09/sap-nhap-cong-ty-la-gi-thu-tuc-quy.html",
-"words": 1211
+"words": 2031
 }
 ],
 "pillar_words": 2350,
 "published": "2024-06-21T14:21:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 7,
-"low": 7,
+"good": 8,
+"low": 6,
 "rewrite": 3,
 "unknown": 1
 },
@@ -2031,14 +2031,14 @@ window.AGS_PILLAR_AUDIT = {
 "words": 4091
 },
 {
-"level": "unknown",
-"url": "https://ketoan.ags-vina.com/2024/02/6-kinh-nghiem-vuot-qua-mua-kiem-toan.html",
-"words": null
+"level": "good",
+"url": "https://ketoan.ags-vina.com/2026/02/nghe-kiem-toan-duoi-ap-luc-mua-ban-phia.html",
+"words": 2122
 },
 {
-"level": "rewrite",
+"level": "low",
 "url": "https://ketoan.ags-vina.com/2024/04/chia-se-kinh-nghiem-kiem-toan-tien-mat.html",
-"words": 1051
+"words": 1996
 },
 {
 "level": "good",
@@ -2056,14 +2056,14 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1098
 }
 ],
-"pillar_words": 1890,
+"pillar_words": 1930,
 "published": "2024-07-03T13:30:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 9,
-"low": 1,
-"rewrite": 2,
-"unknown": 1
+"good": 10,
+"low": 2,
+"rewrite": 1,
+"unknown": 0
 },
 "title": "Tổng hợp các tin tức và thông tin liên quan đến kiểm toán."
 },
@@ -2236,9 +2236,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 3388
 },
 {
-"level": "low",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/09/sap-nhap-cong-ty-la-gi-thu-tuc-quy.html",
-"words": 1211
+"words": 2031
 },
 {
 "level": "good",
@@ -2280,8 +2280,8 @@ window.AGS_PILLAR_AUDIT = {
 "published": "2026-01-28T13:06:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 8,
-"low": 2,
+"good": 9,
+"low": 1,
 "rewrite": 1,
 "unknown": 1
 },
@@ -3216,17 +3216,17 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1442
 },
 {
-"level": "low",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/09/sap-nhap-cong-ty-la-gi-thu-tuc-quy.html",
-"words": 1211
+"words": 2031
 }
 ],
 "pillar_words": 2276,
 "published": "2026-01-15T09:17:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 2,
-"low": 7,
+"good": 3,
+"low": 6,
 "rewrite": 5,
 "unknown": 1
 },
