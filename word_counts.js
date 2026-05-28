@@ -1,6 +1,6 @@
 // AGS Blog 語数データ
-// 自動生成: GitHub Actions (2026-05-28 08:46:39 ICT)
-// データ件数: 8,993 件
+// 自動生成: GitHub Actions (2026-05-28 13:42:45 ICT)
+// データ件数: 8,989 件
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
 // 手動編集しないでください。
@@ -4290,7 +4290,6 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2024/12/doanh-nghiep-co-uoc-uy-nhiem-cho-ben.html": 1174,
 "https://ketoan.ags-vina.com/2024/12/doanh-nghiep-fdi-co-uoc-cho-thue-lai-at.html": 1581,
 "https://ketoan.ags-vina.com/2024/12/doanh-nghiep-giam-von-ieu-le-thi-co-con.html": 881,
-"https://ketoan.ags-vina.com/2024/12/doanh-nghiep-kinh-doanh-ien-luc-co-uoc.html": 1066,
 "https://ketoan.ags-vina.com/2024/12/doanh-nghiep-kinh-doanh-lo-thi-uoc-bu.html": 1377,
 "https://ketoan.ags-vina.com/2024/12/doanh-nghiep-moi-hoat-ong-uoc-01-thang.html": 1975,
 "https://ketoan.ags-vina.com/2024/12/doanh-nghiep-moi-thanh-lap-co-phai-nop.html": 2093,
@@ -4410,8 +4409,6 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2024/12/kinh-doanh-dich-vu-ke-toan-co-bao-gom.html": 1226,
 "https://ketoan.ags-vina.com/2024/12/kinh-doanh-dich-vu-lam-ep-co-chiu-thue.html": 1163,
 "https://ketoan.ags-vina.com/2024/12/ky-3-lan-hop-ong-lao-ong-xac-inh-thoi.html": 620,
-"https://ketoan.ags-vina.com/2024/12/ky-hieu-mau-so-hoa-on-ien-tu-phan-anh.html": 1067,
-"https://ketoan.ags-vina.com/2024/12/ky-hieu-mau-so-hoa-on-ien-tu-phan-anh_13.html": 1072,
 "https://ketoan.ags-vina.com/2024/12/ky-tinh-thue-thu-nhap-ca-nhan-la-gi-va.html": 1379,
 "https://ketoan.ags-vina.com/2024/12/ky-tinh-thue-thu-nhap-doanh-nghiep-au.html": 1795,
 "https://ketoan.ags-vina.com/2024/12/le-cau-mua-cua-nguoi-co-lao-o.html": 1720,
@@ -5093,7 +5090,6 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2025/03/doanh-nghiep-co-nhu-cau-mo-rong-du-au.html": 1710,
 "https://ketoan.ags-vina.com/2025/03/doanh-nghiep-co-su-dung-nhieu-lao-ong.html": 1101,
 "https://ketoan.ags-vina.com/2025/03/doanh-nghiep-huong-uu-ai-thue-thu-nhap.html": 1359,
-"https://ketoan.ags-vina.com/2025/03/doanh-nghiep-kinh-doanh-ien-luc-co-uoc.html": 1068,
 "https://ketoan.ags-vina.com/2025/03/doanh-nghiep-kinh-doanh-mua-ban-vang.html": 937,
 "https://ketoan.ags-vina.com/2025/03/doanh-nghiep-moi-hoat-ong-uoc-01-thang.html": 2223,
 "https://ketoan.ags-vina.com/2025/03/doanh-nghiep-ngan-hang-ang-chuyen-oi-so.html": 886,
@@ -7452,7 +7448,7 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2025/12/horenso-phuong-phap-lam-viec-nhom-huu.html": 1396,
 "https://ketoan.ags-vina.com/2025/12/huong-dan-ang-ky-nguoi-phu-thuoc-e-giam.html": 981,
 "https://ketoan.ags-vina.com/2025/12/huong-dan-che-o-ke-toan-doanh-nghiep-tu.html": 1130,
-"https://ketoan.ags-vina.com/2025/12/huong-dan-chi-tiet-quyet-toan-thue-tncn.html": 2066,
+"https://ketoan.ags-vina.com/2025/12/huong-dan-chi-tiet-quyet-toan-thue-tncn.html": 2055,
 "https://ketoan.ags-vina.com/2025/12/huong-dan-hach-toan-tk-357-quy-binh-on.html": 1085,
 "https://ketoan.ags-vina.com/2025/12/huong-dan-hoan-thue-tncn-cho-ca-nhan-ho.html": 541,
 "https://ketoan.ags-vina.com/2025/12/huong-dan-hoan-thue-tncn-tu-ong-2025-oi.html": 969,
