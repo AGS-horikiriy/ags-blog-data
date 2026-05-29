@@ -1,5 +1,5 @@
 // AGS Blog 語数データ
-// 自動生成: GitHub Actions (2026-05-29 05:25:32 ICT)
+// 自動生成: GitHub Actions (2026-05-29 08:56:25 ICT)
 // データ件数: 8,986 件
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
@@ -2287,7 +2287,7 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2024/07/7-truong-hop-khong-uoc-uy-quyen-quyet.html": 536,
 "https://ketoan.ags-vina.com/2024/07/7-truong-hop-so-o-se-bi-huy-theo-luat.html": 822,
 "https://ketoan.ags-vina.com/2024/07/ai-phai-nop-thue-thu-nhap-ca-nhan-nam.html": 1295,
-"https://ketoan.ags-vina.com/2024/07/anh-gia-va-phan-loai-rui-ro-trong-kiem.html": 3856,
+"https://ketoan.ags-vina.com/2024/07/anh-gia-va-phan-loai-rui-ro-trong-kiem.html": 3695,
 "https://ketoan.ags-vina.com/2024/07/anh-huong-cua-cong-nghe-thong-tin-oi.html": 3196,
 "https://ketoan.ags-vina.com/2024/07/anh-thue-trung-double-taxation-la-gi.html": 1468,
 "https://ketoan.ags-vina.com/2024/07/ap-dung-tri-tue-nhan-tao-ai-trong-cong.html": 1449,
@@ -2627,7 +2627,7 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2024/07/tong-hop-cac-bai-viet-ve-tin-tuc-ifrs.html": 1477,
 "https://ketoan.ags-vina.com/2024/07/tong-hop-cac-tai-lieu-lien-quan-en-thue.html": 1362,
 "https://ketoan.ags-vina.com/2024/07/tong-hop-cac-thong-tin-lien-quan-en.html": 1484,
-"https://ketoan.ags-vina.com/2024/07/tong-hop-cac-tin-tuc-va-thong-tin-lien-quan-den-kiem-toan.html": 1930,
+"https://ketoan.ags-vina.com/2024/07/tong-hop-cac-tin-tuc-va-thong-tin-lien-quan-den-kiem-toan.html": 1923,
 "https://ketoan.ags-vina.com/2024/07/tong-hop-cac-viec-ke-toan-can-lam-khi.html": 1872,
 "https://ketoan.ags-vina.com/2024/07/tong-hop-cong-thuc-tinh-cac-loai-thue.html": 1949,
 "https://ketoan.ags-vina.com/2024/07/tong-hop-quy-inh-ve-thoi-iem-lap-hoa-on.html": 2875,
@@ -7554,6 +7554,7 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2025/12/pra-siet-chat-kiem-soat-phan-tich-vu.html": 803,
 "https://ketoan.ags-vina.com/2025/12/quoc-hoi-thong-qua-luat-thue-thu-nhap.html": 945,
 "https://ketoan.ags-vina.com/2025/12/quoc-hoi-xem-xet-luat-pha-san-sua-oi.html": 958,
+"https://ketoan.ags-vina.com/2025/12/quy-inh-chung-tu-khau-tru-thue-tncn-moi.html": 2032,
 "https://ketoan.ags-vina.com/2025/12/quy-inh-moi-ve-cach-tinh-luong-huu-ap.html": 1690,
 "https://ketoan.ags-vina.com/2025/12/quy-inh-moi-ve-ho-so-trinh-tu-thu-tuc.html": 891,
 "https://ketoan.ags-vina.com/2025/12/quy-inh-moi-ve-luat-lao-ong-2025-hieu.html": 992,
@@ -8156,7 +8157,6 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2026/01/to-chuc-kinh-te-uoc-huong-uu-ai-au-tu.html": 834,
 "https://ketoan.ags-vina.com/2026/01/to-khai-02gtgt-la-gi-ai-bat-buoc-phai.html": 722,
 "https://ketoan.ags-vina.com/2026/01/to-khai-02gtgt-nhung-iem-moi-quan-trong.html": 1447,
-"https://ketoan.ags-vina.com/2026/01/to-khai-hai-quan-nhap-khau-2025-nhung.html": 747,
 "https://ketoan.ags-vina.com/2026/01/toan-canh-va-thach-thuc-ke-toan-tai.html": 1065,
 "https://ketoan.ags-vina.com/2026/01/toi-uu-thue-thu-nhap-doanh-nghiep-chien.html": 2636,
 "https://ketoan.ags-vina.com/2026/01/tomtat5thaydoi2026.html": 758,
@@ -8190,6 +8190,7 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2026/01/tu-2026-ho-kinh-doanh-phai-tu-khai-thue.html": 1397,
 "https://ketoan.ags-vina.com/2026/01/tu-duy-ben-vung-trong-mot-gioi-nhieu.html": 870,
 "https://ketoan.ags-vina.com/2026/01/tu-ong-hoa-dong-du-lieu-ban-hang-hoa-on.html": 885,
+"https://ketoan.ags-vina.com/2026/01/tu-ong-hoa-ke-toan-thue-co-hoi-hay.html": 524,
 "https://ketoan.ags-vina.com/2026/01/tu-viec-at-nuoc-en-tu-duy-just-in-time.html": 1274,
 "https://ketoan.ags-vina.com/2026/01/tuan-thu-quy-inh-phap-luat-ve-lap-va.html": 1106,
 "https://ketoan.ags-vina.com/2026/01/tudonghoaquytrinh.html": 1228,
@@ -8335,7 +8336,6 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2026/02/cung-hoc-boki-3kyu3-phan-4-mua-ban-hang.html": 1456,
 "https://ketoan.ags-vina.com/2026/02/cung-hoc-bokiphan-3-tu-en-bspl-hieu-ung.html": 938,
 "https://ketoan.ags-vina.com/2026/02/cung-hoc-bokitu-vung-boki-ma-nhan-vien.html": 704,
-"https://ketoan.ags-vina.com/2026/02/cung-hoc-bokitu-vung-boki-ma-nhan-vien_0904174885.html": 753,
 "https://ketoan.ags-vina.com/2026/02/dandorila-gi-tu-duy-chuan-bi-giup-cong.html": 1208,
 "https://ketoan.ags-vina.com/2026/02/ddu-la-gi-tat-tan-tat-ve-ieu-kien-giao.html": 2146,
 "https://ketoan.ags-vina.com/2026/02/doanh-nghiep-co-uoc-hach-toan-chi-phi.html": 614,

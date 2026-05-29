@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-05-29 05:25:33 ICT)
+// 自動生成: GitHub Actions (2026-05-29 08:56:25 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -2043,7 +2043,7 @@ window.AGS_PILLAR_AUDIT = {
 {
 "level": "good",
 "url": "https://ketoan.ags-vina.com/2024/07/anh-gia-va-phan-loai-rui-ro-trong-kiem.html",
-"words": 3856
+"words": 3695
 },
 {
 "level": "low",
@@ -2056,7 +2056,7 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1098
 }
 ],
-"pillar_words": 1930,
+"pillar_words": 1923,
 "published": "2024-07-03T13:30:00+07:00",
 "summary": {
 "excellent": 0,
