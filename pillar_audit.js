@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-05-29 08:56:25 ICT)
+// 自動生成: GitHub Actions (2026-05-29 13:44:58 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -693,7 +693,7 @@ window.AGS_PILLAR_AUDIT = {
 {
 "level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/06/nui-phu-si-oi-tuong-cua-niem-tin-va.html",
-"words": 569
+"words": 1047
 },
 {
 "level": "low",
@@ -941,9 +941,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2010
 },
 {
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/11/phan-biet-von-ieu-le-va-von-phap-inh.html",
-"words": 1015
+"words": 2151
 },
 {
 "level": "good",
@@ -990,9 +990,9 @@ window.AGS_PILLAR_AUDIT = {
 "published": "2024-06-21T14:21:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 8,
+"good": 9,
 "low": 6,
-"rewrite": 3,
+"rewrite": 2,
 "unknown": 1
 },
 "title": "Tổng hợp bài viết pháp lý và thuế dành cho doanh nghiệp mới"
@@ -2046,26 +2046,26 @@ window.AGS_PILLAR_AUDIT = {
 "words": 3695
 },
 {
-"level": "low",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2024/03/so-sanh-chuan-muc-kiem-toan-viet-nam.html",
-"words": 1769
+"words": 2775
 },
 {
-"level": "rewrite",
-"url": "https://ketoan.ags-vina.com/2024/03/cac-lien-oan-quoc-te-cua-ke-toan-ifac.html",
-"words": 1098
+"level": "good",
+"url": "https://ketoan.ags-vina.com/2025/09/chuan-muc-kiem-toan-quoc-te-isa-va-kha.html",
+"words": 2511
 }
 ],
-"pillar_words": 1923,
+"pillar_words": 1921,
 "published": "2024-07-03T13:30:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 10,
-"low": 2,
-"rewrite": 1,
+"good": 12,
+"low": 1,
+"rewrite": 0,
 "unknown": 0
 },
-"title": "Tổng hợp các tin tức và thông tin liên quan đến kiểm toán."
+"title": "Tổng hợp các tin tức và thông tin liên quan đến kiểm toán"
 },
 "https://ketoan.ags-vina.com/2024/07/tong-hop-tin-tuc-va-thong-tin-ve-ke-toan.html": {
 "link_count": 13,
@@ -2901,24 +2901,24 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2205
 },
 {
-"level": "rewrite",
+"level": "excellent",
 "url": "https://ketoan.ags-vina.com/2025/03/uu-ai-thue-cho-doanh-nghiep-va-ca-nhan.html",
-"words": 726
+"words": 5531
 },
 {
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/07/ho-kinh-doanh-day-them-co-doanh-thu-bao.html",
-"words": 861
+"words": 3658
 },
 {
-"level": "low",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/05/tong-hop-chinh-sach-thue-co-hieu-luc-tu.html",
-"words": 1562
+"words": 3719
 },
 {
 "level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2025/05/202571vat.html",
-"words": 44
+"words": 133
 },
 {
 "level": "rewrite",
@@ -3009,10 +3009,10 @@ window.AGS_PILLAR_AUDIT = {
 "pillar_words": 3719,
 "published": "2025-12-19T21:27:00+07:00",
 "summary": {
-"excellent": 0,
-"good": 4,
-"low": 5,
-"rewrite": 16,
+"excellent": 1,
+"good": 6,
+"low": 4,
+"rewrite": 14,
 "unknown": 0
 },
 "title": "Tổng hợp Ưu đãi – Miễn – Hoàn thuế 2025 | GTGT, TNCN, TNDN đầy đủ nhất"
@@ -3186,9 +3186,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2135
 },
 {
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/11/phan-biet-von-ieu-le-va-von-phap-inh.html",
-"words": 1015
+"words": 2151
 },
 {
 "level": "low",
@@ -3225,9 +3225,9 @@ window.AGS_PILLAR_AUDIT = {
 "published": "2026-01-15T09:17:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 3,
+"good": 4,
 "low": 6,
-"rewrite": 5,
+"rewrite": 4,
 "unknown": 1
 },
 "title": "Tổng hợp các bài viết pháp lý liên quan tới Luật Doanh nghiệp"
