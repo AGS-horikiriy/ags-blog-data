@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-05-30 19:58:46 ICT)
+// 自動生成: GitHub Actions (2026-05-30 22:57:52 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -421,9 +421,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2339
 },
 {
-"level": "rewrite",
+"level": "unknown",
 "url": "https://ketoan.ags-vina.com/2024/05/y-nghia-cach-su-dung-va-cac-cau-vi-du.html",
-"words": 634
+"words": null
 },
 {
 "level": "low",
@@ -457,8 +457,8 @@ window.AGS_PILLAR_AUDIT = {
 "excellent": 0,
 "good": 4,
 "low": 8,
-"rewrite": 11,
-"unknown": 0
+"rewrite": 10,
+"unknown": 1
 },
 "title": "Tổng hợp các thông tin về ngôn ngữ Nhật "
 },
