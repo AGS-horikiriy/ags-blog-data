@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-06-01 09:12:48 ICT)
+// 自動生成: GitHub Actions (2026-06-01 15:19:40 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -256,14 +256,14 @@ window.AGS_PILLAR_AUDIT = {
 "link_count": 13,
 "links": [
 {
-"level": "low",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2024/05/npv-la-gi.html",
-"words": 1708
+"words": 2543
 },
 {
-"level": "low",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2024/05/tim-hieu-ve-chi-so-irr.html",
-"words": 1723
+"words": 2033
 },
 {
 "level": "rewrite",
@@ -321,12 +321,12 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1071
 }
 ],
-"pillar_words": 2170,
+"pillar_words": 2329,
 "published": "2024-05-22T14:11:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 2,
-"low": 4,
+"good": 4,
+"low": 2,
 "rewrite": 7,
 "unknown": 0
 },
@@ -956,9 +956,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1334
 },
 {
-"level": "rewrite",
+"level": "unknown",
 "url": "https://ketoan.ags-vina.com/2025/12/quy-inh-ve-ieu-kien-cach-chia-loi-nhuan.html",
-"words": 1043
+"words": null
 },
 {
 "level": "low",
@@ -992,8 +992,8 @@ window.AGS_PILLAR_AUDIT = {
 "excellent": 0,
 "good": 9,
 "low": 6,
-"rewrite": 2,
-"unknown": 1
+"rewrite": 1,
+"unknown": 2
 },
 "title": "Tổng hợp bài viết pháp lý và thuế dành cho doanh nghiệp mới"
 },
@@ -3196,14 +3196,14 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1974
 },
 {
-"level": "rewrite",
+"level": "unknown",
 "url": "https://ketoan.ags-vina.com/2025/12/quy-inh-ve-ieu-kien-cach-chia-loi-nhuan.html",
-"words": 1043
+"words": null
 },
 {
-"level": "rewrite",
+"level": "unknown",
 "url": "https://ketoan.ags-vina.com/2025/12/quy-inh-ve-khai-niem-va-cac-hinh-thuc.html",
-"words": 1049
+"words": null
 },
 {
 "level": "low",
@@ -3227,8 +3227,8 @@ window.AGS_PILLAR_AUDIT = {
 "excellent": 0,
 "good": 4,
 "low": 6,
-"rewrite": 4,
-"unknown": 1
+"rewrite": 2,
+"unknown": 3
 },
 "title": "Tổng hợp các bài viết pháp lý liên quan tới Luật Doanh nghiệp"
 },
