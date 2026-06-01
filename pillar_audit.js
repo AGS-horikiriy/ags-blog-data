@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-06-02 02:50:37 ICT)
+// 自動生成: GitHub Actions (2026-06-02 05:55:51 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -406,9 +406,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 528
 },
 {
-"level": "rewrite",
+"level": "unknown",
 "url": "https://ketoan.ags-vina.com/2024/05/y-nghia-cach-su-dung-va-cac-vi-du-ve.html",
-"words": 645
+"words": null
 },
 {
 "level": "rewrite",
@@ -431,9 +431,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1438
 },
 {
-"level": "rewrite",
+"level": "unknown",
 "url": "https://ketoan.ags-vina.com/2024/04/y-nghia-cach-su-dung-va-cac-vi-du-ve_25.html",
-"words": 653
+"words": null
 },
 {
 "level": "low",
@@ -457,8 +457,8 @@ window.AGS_PILLAR_AUDIT = {
 "excellent": 0,
 "good": 4,
 "low": 8,
-"rewrite": 10,
-"unknown": 1
+"rewrite": 8,
+"unknown": 3
 },
 "title": "Tổng hợp các thông tin về ngôn ngữ Nhật "
 },

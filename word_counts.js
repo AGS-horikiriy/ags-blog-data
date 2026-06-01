@@ -1,6 +1,6 @@
 // AGS Blog 語数データ
-// 自動生成: GitHub Actions (2026-06-02 02:50:36 ICT)
-// データ件数: 8,977 件
+// 自動生成: GitHub Actions (2026-06-02 05:55:49 ICT)
+// データ件数: 8,969 件
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
 // 手動編集しないでください。
@@ -792,7 +792,6 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2023/04/danh-sach-cac-van-phong-cho-thue-tai_8.html": 321,
 "https://ketoan.ags-vina.com/2023/04/danh-sach-cong-ty-cho-thue-van-phong.html": 1250,
 "https://ketoan.ags-vina.com/2023/04/danh-sach-du-can-ho-cho-nguoi-lao-ong.html": 894,
-"https://ketoan.ags-vina.com/2023/04/danh-sach-du-can-ho-cho-nguoi-lao-ong_26.html": 404,
 "https://ketoan.ags-vina.com/2023/04/du-thao-luat-phong-thu-dan-su-chu-ong.html": 1266,
 "https://ketoan.ags-vina.com/2023/04/gia-thue-nha-can-ho-tai-tp-ha-noi-va-tp.html": 694,
 "https://ketoan.ags-vina.com/2023/04/golden-week-tuan-le-vang-cua-nhat-ban.html": 855,
@@ -815,9 +814,7 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2023/04/nguyen-tac-co-ban-ve-viec-thu-thap-du.html": 1368,
 "https://ketoan.ags-vina.com/2023/04/nhieu-lao-ong-muon-nang-muc-ong-bao.html": 723,
 "https://ketoan.ags-vina.com/2023/04/nhung-ieu-can-luu-y-ve-luat-kinh-doanh.html": 1465,
-"https://ketoan.ags-vina.com/2023/04/nhung-ieu-can-luu-y-ve-luat-kinh-doanh_11.html": 724,
 "https://ketoan.ags-vina.com/2023/04/nhung-ieu-can-luu-y-ve-luat-nha-o-2014.html": 1704,
-"https://ketoan.ags-vina.com/2023/04/nhung-ieu-can-luu-y-ve-luat-nha-o-2014_18.html": 872,
 "https://ketoan.ags-vina.com/2023/04/nhung-ngay-le-oc-nhat-vo-nhi-o-nhat-ban.html": 1677,
 "https://ketoan.ags-vina.com/2023/04/officetel-va-condotel-uoc-cap-giay.html": 475,
 "https://ketoan.ags-vina.com/2023/04/oi-tuong-nop-thue-thu-nhap-doanh-nghiep.html": 554,
@@ -1313,7 +1310,6 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2024/03/nhung-luu-y-ve-khoan-vay-nuoc-ngoai.html": 1108,
 "https://ketoan.ags-vina.com/2024/03/nhung-van-e-lien-quan-en-bao-hiem-xa.html": 965,
 "https://ketoan.ags-vina.com/2024/03/nhung-van-e-lien-quan-en-bao-hiem-xa_8.html": 749,
-"https://ketoan.ags-vina.com/2024/03/nui-phu-si-nhat-ban-va-nhung-ieu-co-ban.html": 561,
 "https://ketoan.ags-vina.com/2024/03/o-dung-uong-truyen-thong-cua-nhat-ban.html": 876,
 "https://ketoan.ags-vina.com/2024/03/omakase-la-gi-tai-sao-nguoi-nhat-san.html": 796,
 "https://ketoan.ags-vina.com/2024/03/phan-biet-cac-loai-hinh-kiem-toan.html": 2130,
@@ -1573,10 +1569,8 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2024/04/vi-sao-phai-ban-hanh-chuan-muc-kiem-toan.html": 2853,
 "https://ketoan.ags-vina.com/2024/04/xay-dung-van-hoa-doanh-nghiep-lanh-manh.html": 3004,
 "https://ketoan.ags-vina.com/2024/04/xu-phat-oi-voi-nguoi-su-dung-lao-ong-va.html": 1075,
-"https://ketoan.ags-vina.com/2024/04/y-nghia-cach-su-dung-va-cac-vi-du-cua.html": 696,
 "https://ketoan.ags-vina.com/2024/04/y-nghia-cach-su-dung-va-cac-vi-du-ve.html": 2508,
 "https://ketoan.ags-vina.com/2024/04/y-nghia-cach-su-dung-va-cac-vi-du-ve_12.html": 1465,
-"https://ketoan.ags-vina.com/2024/04/y-nghia-cach-su-dung-va-cac-vi-du-ve_25.html": 653,
 "https://ketoan.ags-vina.com/2024/04/y-nghia-cach-su-dung-va-vi-du-cau-ban.html": 532,
 "https://ketoan.ags-vina.com/2024/04/y-nghia-cach-su-dung-va-vi-du-cua-cau.html": 784,
 "https://ketoan.ags-vina.com/2024/04/y-nghia-cach-su-dung-va-vi-du-cua-cau_17.html": 1414,
@@ -1898,9 +1892,7 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2024/05/xuat-nhap-khau-giai-ma-ieu-kien-dap.html": 1847,
 "https://ketoan.ags-vina.com/2024/05/xuat-nhap-khau-giai-ma-ieu-kien-exw-ex.html": 1273,
 "https://ketoan.ags-vina.com/2024/05/xuat-nhap-khau-giai-ma-ieu-kien-fca.html": 2303,
-"https://ketoan.ags-vina.com/2024/05/y-nghia-cac-su-dung-va-cac-vi-du-ve-cau.html": 539,
 "https://ketoan.ags-vina.com/2024/05/y-nghia-cach-su-dung-va-cac-cau-vi-du_0689180505.html": 2339,
-"https://ketoan.ags-vina.com/2024/05/y-nghia-cach-su-dung-va-cac-vi-du-ve.html": 645,
 "https://ketoan.ags-vina.com/2024/05/y-nghia-cach-su-dung-va-cac-vi-du-ve_13.html": 484,
 "https://ketoan.ags-vina.com/2024/05/y-nghia-cach-su-dung-va-vi-du-cua-cau.html": 1438,
 "https://ketoan.ags-vina.com/2024/05/y-nghia-va-iem-khac-nhau-giua-shimenawa.html": 1159,
