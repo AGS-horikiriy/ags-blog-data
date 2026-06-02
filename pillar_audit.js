@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-06-02 09:13:00 ICT)
+// 自動生成: GitHub Actions (2026-06-02 14:15:48 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -253,7 +253,7 @@ window.AGS_PILLAR_AUDIT = {
 "title": "Tổng hợp các bài viết về nhà cung cấp"
 },
 "https://ketoan.ags-vina.com/2024/05/tong-hop-cac-bai-viet-ve-tai-chinh.html": {
-"link_count": 13,
+"link_count": 12,
 "links": [
 {
 "level": "good",
@@ -266,19 +266,14 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2033
 },
 {
-"level": "rewrite",
-"url": "https://ketoan.ags-vina.com/2024/05/li-thuyet-cua-modigliani-va-miller.html",
-"words": 892
+"level": "good",
+"url": "https://ketoan.ags-vina.com/2024/05/tim-hieu-ve-mo-hinh-capm.html",
+"words": 2642
 },
 {
 "level": "rewrite",
 "url": "https://ketoan.ags-vina.com/2024/05/phuong-phap-chiet-khau-dong-co-tuc.html",
 "words": 1036
-},
-{
-"level": "low",
-"url": "https://ketoan.ags-vina.com/2024/05/tim-hieu-ve-mo-hinh-capm.html",
-"words": 1333
 },
 {
 "level": "good",
@@ -321,13 +316,13 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1071
 }
 ],
-"pillar_words": 2329,
+"pillar_words": 2351,
 "published": "2024-05-22T14:11:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 4,
-"low": 2,
-"rewrite": 7,
+"good": 5,
+"low": 1,
+"rewrite": 6,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết về Tài chính nâng cao"
@@ -2921,14 +2916,14 @@ window.AGS_PILLAR_AUDIT = {
 "words": 133
 },
 {
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/03/bo-tai-chinh-giao-dich-tai-san-so-se.html",
-"words": 968
+"words": 3267
 },
 {
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/10/chi-phi-hop-ly-hop-le-khi-tinh-thue.html",
-"words": 823
+"words": 2750
 },
 {
 "level": "rewrite",
@@ -3010,9 +3005,9 @@ window.AGS_PILLAR_AUDIT = {
 "published": "2025-12-19T21:27:00+07:00",
 "summary": {
 "excellent": 1,
-"good": 6,
+"good": 8,
 "low": 4,
-"rewrite": 14,
+"rewrite": 12,
 "unknown": 0
 },
 "title": "Tổng hợp Ưu đãi – Miễn – Hoàn thuế 2025 | GTGT, TNCN, TNDN đầy đủ nhất"
