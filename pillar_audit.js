@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-06-03 09:30:58 ICT)
+// 自動生成: GitHub Actions (2026-06-03 14:29:51 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -943,12 +943,12 @@ window.AGS_PILLAR_AUDIT = {
 {
 "level": "good",
 "url": "https://ketoan.ags-vina.com/2025/10/cac-hinh-thuc-to-chuc-lai-doanh-nghiep.html",
-"words": 2519
+"words": 2516
 },
 {
-"level": "low",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/11/cac-hinh-thuc-to-chuc-lai-doanh-nghiep.html",
-"words": 1334
+"words": 2146
 },
 {
 "level": "unknown",
@@ -985,8 +985,8 @@ window.AGS_PILLAR_AUDIT = {
 "published": "2024-06-21T14:21:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 9,
-"low": 6,
+"good": 10,
+"low": 5,
 "rewrite": 1,
 "unknown": 2
 },
@@ -2223,7 +2223,7 @@ window.AGS_PILLAR_AUDIT = {
 {
 "level": "good",
 "url": "https://ketoan.ags-vina.com/2025/10/cac-hinh-thuc-to-chuc-lai-doanh-nghiep.html",
-"words": 2519
+"words": 2516
 },
 {
 "level": "good",
@@ -2926,19 +2926,19 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2750
 },
 {
-"level": "rewrite",
+"level": "excellent",
 "url": "https://ketoan.ags-vina.com/2025/09/hoan-thue-gtgt-2025-nhung-iem-doanh.html",
-"words": 748
+"words": 5260
 },
 {
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/08/hoan-thue-gia-tri-gia-tang-gtgt-oi-voi.html",
-"words": 907
+"words": 3132
 },
 {
-"level": "low",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/04/ho-kinh-doanh-co-uoc-hoan-thue-gtgt.html",
-"words": 1573
+"words": 2271
 },
 {
 "level": "rewrite",
@@ -3004,10 +3004,10 @@ window.AGS_PILLAR_AUDIT = {
 "pillar_words": 3719,
 "published": "2025-12-19T21:27:00+07:00",
 "summary": {
-"excellent": 1,
-"good": 8,
-"low": 4,
-"rewrite": 12,
+"excellent": 2,
+"good": 10,
+"low": 3,
+"rewrite": 10,
 "unknown": 0
 },
 "title": "Tổng hợp Ưu đãi – Miễn – Hoàn thuế 2025 | GTGT, TNCN, TNDN đầy đủ nhất"
