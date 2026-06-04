@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-06-04 09:27:39 ICT)
+// 自動生成: GitHub Actions (2026-06-04 14:13:53 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -2941,29 +2941,29 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2271
 },
 {
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2024/11/7-truong-hop-thuoc-dien-kiem-tra-truoc.html",
-"words": 718
+"words": 3886
 },
 {
-"level": "low",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2024/11/doanh-nghiep-co-uoc-hoan-thue-gia-tri.html",
-"words": 1305
+"words": 2122
 },
 {
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/04/nop-thua-thue-gia-tri-gia-tang-thi-co.html",
-"words": 1039
+"words": 2874
 },
 {
-"level": "rewrite",
+"level": "unknown",
 "url": "https://ketoan.ags-vina.com/2025/08/hoan-thue-tncn-ieu-kien-va-quy-trinh-xu.html",
-"words": 680
+"words": null
 },
 {
-"level": "rewrite",
+"level": "unknown",
 "url": "https://ketoan.ags-vina.com/2025/04/lam-nao-e-uoc-hoan-thue-tu-ong.html",
-"words": 1039
+"words": null
 },
 {
 "level": "rewrite",
@@ -2976,9 +2976,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1103
 },
 {
-"level": "low",
+"level": "unknown",
 "url": "https://ketoan.ags-vina.com/2024/11/quy-trinh-hoan-thue-cho-doanh-nghiep.html",
-"words": 1328
+"words": null
 },
 {
 "level": "rewrite",
@@ -3005,10 +3005,10 @@ window.AGS_PILLAR_AUDIT = {
 "published": "2025-12-19T21:27:00+07:00",
 "summary": {
 "excellent": 2,
-"good": 10,
-"low": 3,
-"rewrite": 10,
-"unknown": 0
+"good": 13,
+"low": 1,
+"rewrite": 6,
+"unknown": 3
 },
 "title": "Tổng hợp Ưu đãi – Miễn – Hoàn thuế 2025 | GTGT, TNCN, TNDN đầy đủ nhất"
 },
