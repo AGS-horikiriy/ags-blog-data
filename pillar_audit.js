@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-06-05 13:56:52 ICT)
+// 自動生成: GitHub Actions (2026-06-05 18:55:54 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -271,14 +271,14 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2642
 },
 {
-"level": "rewrite",
+"level": "unknown",
 "url": "https://ketoan.ags-vina.com/2024/05/phuong-phap-chiet-khau-dong-co-tuc.html",
-"words": 1036
+"words": null
 },
 {
 "level": "good",
 "url": "https://ketoan.ags-vina.com/2024/05/ebitda-va-cach-ung-dung-chi-so-ebitda.html",
-"words": 2346
+"words": 2447
 },
 {
 "level": "low",
@@ -316,14 +316,14 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1071
 }
 ],
-"pillar_words": 2351,
+"pillar_words": 2364,
 "published": "2024-05-22T14:11:00+07:00",
 "summary": {
 "excellent": 0,
 "good": 5,
 "low": 1,
-"rewrite": 6,
-"unknown": 0
+"rewrite": 5,
+"unknown": 1
 },
 "title": "Tổng hợp các bài viết về Tài chính nâng cao"
 },
