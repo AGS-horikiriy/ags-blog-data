@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-06-05 09:02:30 ICT)
+// 自動生成: GitHub Actions (2026-06-05 13:56:52 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -971,9 +971,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1336
 },
 {
-"level": "rewrite",
+"level": "low",
 "url": "https://ketoan.ags-vina.com/2025/09/quy-inh-ve-uy-quyen-thuc-hien-thu-tuc.html",
-"words": 628
+"words": 1987
 },
 {
 "level": "good",
@@ -986,8 +986,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 10,
-"low": 5,
-"rewrite": 1,
+"low": 6,
+"rewrite": 0,
 "unknown": 2
 },
 "title": "Tổng hợp bài viết pháp lý và thuế dành cho doanh nghiệp mới"
@@ -2601,18 +2601,18 @@ window.AGS_PILLAR_AUDIT = {
 "words": 620
 },
 {
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2024/11/muc-ong-bao-hiem-tai-nan-lao-ong-tu.html",
-"words": 1012
+"words": 2097
 }
 ],
 "pillar_words": 3537,
 "published": "2025-12-12T08:06:44+07:00",
 "summary": {
 "excellent": 0,
-"good": 0,
+"good": 1,
 "low": 9,
-"rewrite": 10,
+"rewrite": 9,
 "unknown": 0
 },
 "title": "Tổng hợp các bài viết pháp lý liên quan tới Luật Lao động"
@@ -3171,9 +3171,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1496
 },
 {
-"level": "rewrite",
+"level": "low",
 "url": "https://ketoan.ags-vina.com/2025/09/quy-inh-ve-uy-quyen-thuc-hien-thu-tuc.html",
-"words": 628
+"words": 1987
 },
 {
 "level": "good",
@@ -3221,8 +3221,8 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 4,
-"low": 6,
-"rewrite": 2,
+"low": 7,
+"rewrite": 1,
 "unknown": 3
 },
 "title": "Tổng hợp các bài viết pháp lý liên quan tới Luật Doanh nghiệp"
