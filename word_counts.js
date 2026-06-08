@@ -1,5 +1,5 @@
 // AGS Blog 語数データ
-// 自動生成: GitHub Actions (2026-06-08 09:13:49 ICT)
+// 自動生成: GitHub Actions (2026-06-08 14:20:24 ICT)
 // データ件数: 8,956 件
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
@@ -8598,7 +8598,7 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2026/02/vi-sao-cang-oc-nhieu-tin-tuc-tai-chinh.html": 570,
 "https://ketoan.ags-vina.com/2026/02/vi-sao-gan-ay-nhieu-doanh-nghiep-tai.html": 832,
 "https://ketoan.ags-vina.com/2026/02/vi-sao-ke-toan-ngay-nay-phai-gioi-ky.html": 638,
-"https://ketoan.ags-vina.com/2026/02/vi-sao-khach-hang-khieu-nai-dich-vu-ke.html": 1215,
+"https://ketoan.ags-vina.com/2026/02/vi-sao-khach-hang-khieu-nai-dich-vu-ke.html": 2197,
 "https://ketoan.ags-vina.com/2026/02/vi-sao-sai-sot-trong-yeu-thuong-khong.html": 731,
 "https://ketoan.ags-vina.com/2026/02/viet-bao-cao-ngay-nippo-khong-chi-la.html": 2673,
 "https://ketoan.ags-vina.com/2026/02/viet-nam-can-chien-luoc-gi-e-tung-buoc.html": 1210,
