@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-06-08 14:20:25 ICT)
+// 自動生成: GitHub Actions (2026-06-08 19:56:48 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -2248,12 +2248,12 @@ window.AGS_PILLAR_AUDIT = {
 {
 "level": "good",
 "url": "https://ketoan.ags-vina.com/2025/08/hieu-ve-thuat-ngu-m-trong-quan-he-kinh.html",
-"words": 3418
+"words": 3411
 },
 {
-"level": "low",
+"level": "unknown",
 "url": "https://ketoan.ags-vina.com/2025/08/thuat-ngu-m-huong-chuyen-minh-manh-me.html",
-"words": 1390
+"words": null
 },
 {
 "level": "unknown",
@@ -2276,9 +2276,9 @@ window.AGS_PILLAR_AUDIT = {
 "summary": {
 "excellent": 0,
 "good": 9,
-"low": 1,
+"low": 0,
 "rewrite": 1,
-"unknown": 1
+"unknown": 2
 },
 "title": "Tổng hợp các bài viết pháp lý liên quan đến M&A"
 },
