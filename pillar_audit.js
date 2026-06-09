@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-06-09 08:51:29 ICT)
+// 自動生成: GitHub Actions (2026-06-09 13:38:45 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -2873,7 +2873,7 @@ window.AGS_PILLAR_AUDIT = {
 "title": "Tổng hợp các bài viết về Kỹ năng Quản lý - Lãnh đạo"
 },
 "https://ketoan.ags-vina.com/2025/12/tong-hop-cac-thong-tin-lien-quan-den-uu-dai-va-mien-thue.html": {
-"link_count": 25,
+"link_count": 23,
 "links": [
 {
 "level": "good",
@@ -2956,24 +2956,14 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2874
 },
 {
-"level": "unknown",
-"url": "https://ketoan.ags-vina.com/2025/08/hoan-thue-tncn-ieu-kien-va-quy-trinh-xu.html",
-"words": null
-},
-{
-"level": "unknown",
-"url": "https://ketoan.ags-vina.com/2025/04/lam-nao-e-uoc-hoan-thue-tu-ong.html",
-"words": null
-},
-{
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/04/bao-lau-thi-uoc-hoan-thue-tncn-can-biet.html",
-"words": 751
+"words": 2535
 },
 {
-"level": "rewrite",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2024/11/canh-bao-ve-cac-chieu-tro-lua-ao-dich.html",
-"words": 1103
+"words": 2193
 },
 {
 "level": "unknown",
@@ -3001,14 +2991,14 @@ window.AGS_PILLAR_AUDIT = {
 "words": 936
 }
 ],
-"pillar_words": 3719,
+"pillar_words": 3439,
 "published": "2025-12-19T21:27:00+07:00",
 "summary": {
 "excellent": 2,
-"good": 13,
+"good": 15,
 "low": 1,
-"rewrite": 6,
-"unknown": 3
+"rewrite": 4,
+"unknown": 1
 },
 "title": "Tổng hợp Ưu đãi – Miễn – Hoàn thuế 2025 | GTGT, TNCN, TNDN đầy đủ nhất"
 },
