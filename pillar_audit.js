@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-06-10 13:56:11 ICT)
+// 自動生成: GitHub Actions (2026-06-10 19:12:47 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -253,7 +253,7 @@ window.AGS_PILLAR_AUDIT = {
 "title": "Tổng hợp các bài viết về nhà cung cấp"
 },
 "https://ketoan.ags-vina.com/2024/05/tong-hop-cac-bai-viet-ve-tai-chinh.html": {
-"link_count": 12,
+"link_count": 13,
 "links": [
 {
 "level": "good",
@@ -302,6 +302,11 @@ window.AGS_PILLAR_AUDIT = {
 },
 {
 "level": "good",
+"url": "https://ketoan.ags-vina.com/2026/05/nhin-bao-cao-tai-chinh-e-nhan-biet-rui.html",
+"words": 2189
+},
+{
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2025/09/30-tu-viet-tat-thuong-gap-trong-ke-toan.html",
 "words": 3279
 },
@@ -316,11 +321,11 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1071
 }
 ],
-"pillar_words": 2364,
+"pillar_words": 2528,
 "published": "2024-05-22T14:11:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 5,
+"good": 6,
 "low": 1,
 "rewrite": 5,
 "unknown": 1
@@ -2873,7 +2878,7 @@ window.AGS_PILLAR_AUDIT = {
 "title": "Tổng hợp các bài viết về Kỹ năng Quản lý - Lãnh đạo"
 },
 "https://ketoan.ags-vina.com/2025/12/tong-hop-cac-thong-tin-lien-quan-den-uu-dai-va-mien-thue.html": {
-"link_count": 23,
+"link_count": 21,
 "links": [
 {
 "level": "good",
@@ -2966,19 +2971,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2193
 },
 {
-"level": "unknown",
-"url": "https://ketoan.ags-vina.com/2024/11/quy-trinh-hoan-thue-cho-doanh-nghiep.html",
-"words": null
-},
-{
-"level": "rewrite",
-"url": "https://ketoan.ags-vina.com/2024/11/hang-tam-nhap-khau-tai-xuat-khau-co-uoc.html",
-"words": 945
-},
-{
-"level": "low",
+"level": "good",
 "url": "https://ketoan.ags-vina.com/2026/01/mien-thue-thu-nhap-ca-nhan-oi-voi-tien.html",
-"words": 1512
+"words": 2872
 },
 {
 "level": "rewrite",
@@ -2991,14 +2986,14 @@ window.AGS_PILLAR_AUDIT = {
 "words": 936
 }
 ],
-"pillar_words": 3439,
+"pillar_words": 3175,
 "published": "2025-12-19T21:27:00+07:00",
 "summary": {
 "excellent": 2,
-"good": 15,
-"low": 1,
-"rewrite": 4,
-"unknown": 1
+"good": 16,
+"low": 0,
+"rewrite": 3,
+"unknown": 0
 },
 "title": "Tổng hợp Ưu đãi – Miễn – Hoàn thuế 2025 | GTGT, TNCN, TNDN đầy đủ nhất"
 },
