@@ -1,5 +1,5 @@
 // AGS Blog 語数データ
-// 自動生成: GitHub Actions (2026-06-10 19:12:46 ICT)
+// 自動生成: GitHub Actions (2026-06-11 00:49:41 ICT)
 // データ件数: 8,955 件
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
