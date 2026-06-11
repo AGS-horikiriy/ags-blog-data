@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-06-11 09:13:06 ICT)
+// 自動生成: GitHub Actions (2026-06-11 14:20:18 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -271,9 +271,9 @@ window.AGS_PILLAR_AUDIT = {
 "words": 2642
 },
 {
-"level": "unknown",
-"url": "https://ketoan.ags-vina.com/2024/05/phuong-phap-chiet-khau-dong-co-tuc.html",
-"words": null
+"level": "good",
+"url": "https://ketoan.ags-vina.com/2025/12/cac-phuong-phap-tinh-gia-xuat-kho.html",
+"words": 2858
 },
 {
 "level": "good",
@@ -321,14 +321,14 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1071
 }
 ],
-"pillar_words": 2528,
+"pillar_words": 2486,
 "published": "2024-05-22T14:11:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 6,
+"good": 7,
 "low": 1,
 "rewrite": 5,
-"unknown": 1
+"unknown": 0
 },
 "title": "Tổng hợp các bài viết về Tài chính nâng cao"
 },

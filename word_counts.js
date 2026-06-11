@@ -1,5 +1,5 @@
 // AGS Blog 語数データ
-// 自動生成: GitHub Actions (2026-06-11 09:13:05 ICT)
+// 自動生成: GitHub Actions (2026-06-11 14:20:18 ICT)
 // データ件数: 8,958 件
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
@@ -1859,7 +1859,7 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2024/05/tocfl-la-gi-nhung-ieu-can-luu-y-ve-ky.html": 620,
 "https://ketoan.ags-vina.com/2024/05/tong-hop-cac-bai-viet-ve-chung-chi.html": 1401,
 "https://ketoan.ags-vina.com/2024/05/tong-hop-cac-bai-viet-ve-nha-cung-cap.html": 3097,
-"https://ketoan.ags-vina.com/2024/05/tong-hop-cac-bai-viet-ve-tai-chinh.html": 2528,
+"https://ketoan.ags-vina.com/2024/05/tong-hop-cac-bai-viet-ve-tai-chinh.html": 2486,
 "https://ketoan.ags-vina.com/2024/05/tong-hop-cac-cau-hoi-ve-giay-phep-lao.html": 915,
 "https://ketoan.ags-vina.com/2024/05/tong-hop-cac-thong-tin-ve-ngon-ngu-nhat.html": 3832,
 "https://ketoan.ags-vina.com/2024/05/tong-hop-danh-sach-phim-tat-trong.html": 1315,
@@ -7296,7 +7296,7 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2025/12/cac-nganh-thieu-nhan-luc-o-nhat-ban.html": 2042,
 "https://ketoan.ags-vina.com/2025/12/cac-ngay-nghi-le-o-nhat-ban-nhung-dip.html": 680,
 "https://ketoan.ags-vina.com/2025/12/cac-oi-tuong-nao-khong-phai-ong-thue.html": 1431,
-"https://ketoan.ags-vina.com/2025/12/cac-phuong-phap-tinh-gia-xuat-kho.html": 2840,
+"https://ketoan.ags-vina.com/2025/12/cac-phuong-phap-tinh-gia-xuat-kho.html": 2858,
 "https://ketoan.ags-vina.com/2025/12/cac-truong-hop-khong-phai-nop-thue-nha.html": 940,
 "https://ketoan.ags-vina.com/2025/12/cac-yeu-to-uoc-su-dung-e-anh-gia-tac.html": 1156,
 "https://ketoan.ags-vina.com/2025/12/cach-dung-power-query-hoac-pivot-table.html": 650,
@@ -8656,7 +8656,7 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2026/03/co-bat-buoc-phai-theo-che-o-ke-toan.html": 189,
 "https://ketoan.ags-vina.com/2026/03/co-hoi-nghe-nghiep-cho-nguoi-viet-trong.html": 913,
 "https://ketoan.ags-vina.com/2026/03/cong-thuc-tinh-thue-thu-nhap-ca-nhan.html": 495,
-"https://ketoan.ags-vina.com/2026/03/cong-ty-moi-thanh-lap-1-nam-au-co-mat.html": 2006,
+"https://ketoan.ags-vina.com/2026/03/cong-ty-moi-thanh-lap-1-nam-au-co-mat.html": 2001,
 "https://ketoan.ags-vina.com/2026/03/cong-van-4998-quy-inh-ve-thue-gtgt-oi.html": 1052,
 "https://ketoan.ags-vina.com/2026/03/cung-hoc-boki-3kyu3-phan-5-mua-ban-hang.html": 2145,
 "https://ketoan.ags-vina.com/2026/03/cung-hoc-boki-3kyu3-phan-6-tien-mat.html": 2079,
