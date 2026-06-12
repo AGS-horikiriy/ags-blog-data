@@ -1,5 +1,5 @@
 // AGS ピラーポスト検証データ
-// 自動生成: GitHub Actions (2026-06-12 09:09:20 ICT)
+// 自動生成: GitHub Actions (2026-06-12 14:10:39 ICT)
 // ピラーポスト数: 44 件
 // 語数しきい値: rewrite≤1200 / low<2000 / good<5000 / excellent≥5000
 //
@@ -253,7 +253,7 @@ window.AGS_PILLAR_AUDIT = {
 "title": "Tổng hợp các bài viết về nhà cung cấp"
 },
 "https://ketoan.ags-vina.com/2024/05/tong-hop-cac-bai-viet-ve-tai-chinh.html": {
-"link_count": 13,
+"link_count": 14,
 "links": [
 {
 "level": "good",
@@ -279,6 +279,11 @@ window.AGS_PILLAR_AUDIT = {
 "level": "good",
 "url": "https://ketoan.ags-vina.com/2024/05/ebitda-va-cach-ung-dung-chi-so-ebitda.html",
 "words": 2447
+},
+{
+"level": "good",
+"url": "https://ketoan.ags-vina.com/2026/03/cong-ty-moi-thanh-lap-1-nam-au-co-mat.html",
+"words": 2001
 },
 {
 "level": "low",
@@ -321,11 +326,11 @@ window.AGS_PILLAR_AUDIT = {
 "words": 1071
 }
 ],
-"pillar_words": 2486,
+"pillar_words": 2615,
 "published": "2024-05-22T14:11:00+07:00",
 "summary": {
 "excellent": 0,
-"good": 7,
+"good": 8,
 "low": 1,
 "rewrite": 5,
 "unknown": 0
