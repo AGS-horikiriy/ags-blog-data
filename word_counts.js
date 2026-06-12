@@ -1,6 +1,6 @@
 // AGS Blog 語数データ
-// 自動生成: GitHub Actions (2026-06-12 05:45:54 ICT)
-// データ件数: 8,958 件
+// 自動生成: GitHub Actions (2026-06-12 09:09:19 ICT)
+// データ件数: 8,960 件
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
 // 手動編集しないでください。
@@ -7325,6 +7325,7 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2025/12/chien-dich-60-ngay-chuyen-oi-tu-thue.html": 1375,
 "https://ketoan.ags-vina.com/2025/12/chinh-sach-ho-tro-cho-doanh-nghiep-nho.html": 1118,
 "https://ketoan.ags-vina.com/2025/12/chinh-sach-khoan-hong-trong-luat-canh.html": 6232,
+"https://ketoan.ags-vina.com/2025/12/chinh-sach-thue-cho-hoat-ong-thuong-mai.html": 606,
 "https://ketoan.ags-vina.com/2025/12/chinh-sach-thue-moi-cho-ho-kinh-doanh.html": 1156,
 "https://ketoan.ags-vina.com/2025/12/cho-thue-nha-thi-tinh-thue-tncn-nhu-nao.html": 922,
 "https://ketoan.ags-vina.com/2025/12/chorei-van-hoa-hop-sang-trong-cong-ty.html": 2370,
@@ -8202,7 +8203,6 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2026/02/bang-gia-at-moi-2026-quy-inh-moi-nhat.html": 1782,
 "https://ketoan.ags-vina.com/2026/02/bang-luong-ke-toan-theo-chuan-vas-cach.html": 893,
 "https://ketoan.ags-vina.com/2026/02/banhxeoVietNam.html": 360,
-"https://ketoan.ags-vina.com/2026/02/bao-tang-lao-ong-voi-bhxh-thoi-han-giai.html": 988,
 "https://ketoan.ags-vina.com/2026/02/bat-buoc-xuat-hoa-on-cho-moi-giao-dich.html": 576,
 "https://ketoan.ags-vina.com/2026/02/bi-kip-tap-trung-khi-on-thi-chon-nhac.html": 916,
 "https://ketoan.ags-vina.com/2026/02/bi-quyet-750-toeic-nghe-chon-loc-thay.html": 1210,
@@ -8223,6 +8223,7 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2026/02/cac-nguyen-tac-khi-ghi-nhan-doanh-thu.html": 1283,
 "https://ketoan.ags-vina.com/2026/02/cac-rui-ro-thue-doanh-nghiep-thuong-gap.html": 940,
 "https://ketoan.ags-vina.com/2026/02/cac-truong-hop-phai-ieu-chinh-giay.html": 1091,
+"https://ketoan.ags-vina.com/2026/02/cach-e-lao-ong-nu-nhan-toi-tien-thai.html": 2546,
 "https://ketoan.ags-vina.com/2026/02/cach-hach-toan-kinh-phi-cong-oan-va-oan.html": 2401,
 "https://ketoan.ags-vina.com/2026/02/cach-hach-toan-phan-chia-loi-nhuan-cho.html": 2679,
 "https://ketoan.ags-vina.com/2026/02/cach-hach-toan-tien-cham-nop-thue-tndn.html": 1614,
@@ -8952,6 +8953,7 @@ window.AGS_WORD_COUNTS = {
 "https://ketoan.ags-vina.com/2026/06/luat-tri-tue-nhan-tao-ai-va-doanh.html": 2991,
 "https://ketoan.ags-vina.com/2026/06/moi-hoc-tieng-phap-tranh-ngay-nhung-loi.html": 2056,
 "https://ketoan.ags-vina.com/2026/06/nang-nguong-mien-thue-ho-kinh-doanh-e.html": 1981,
+"https://ketoan.ags-vina.com/2026/06/net-ep-van-hoa-tho-cung-to-tien-cua.html": 2216,
 "https://ketoan.ags-vina.com/2026/06/nghi-inh-1322026n-cp-quy-inh-ve-xu-phat.html": 2696,
 "https://ketoan.ags-vina.com/2026/06/nhat-ban-siet-quan-ly-lao-ong-nuoc.html": 2121,
 "https://ketoan.ags-vina.com/2026/06/quoc-hoi-chot-thue-suat-thue-thu-nhap.html": 2543,
