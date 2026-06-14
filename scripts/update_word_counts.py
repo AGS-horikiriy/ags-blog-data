@@ -19,7 +19,7 @@ from html.parser import HTMLParser
 # ============================================================
 API_KEY = os.environ.get("BLOGGER_API_KEY", "AIzaSyBq3LO2ptxD40GaX853awXM2Dj9WR1vQy4")
 BLOG_ID = os.environ.get("BLOGGER_BLOG_ID", "602305327945510887")
-MAX_RESULTS = 150  # 1ページあたり (500→150に縮小してAPI負荷軽減)
+MAX_RESULTS = 300  # 1ページあたり (リトライ付きなので300件で高速化)
 BASE_URL = f"https://www.googleapis.com/blogger/v3/blogs/{BLOG_ID}/posts"
 MAX_RETRIES = 5    # 503等のリトライ回数
 RETRY_WAIT = 3     # リトライ初回待機秒
@@ -170,7 +170,7 @@ def fetch_all_posts():
             break
 
         # API rate limit 対策 — ページ間に少し間隔を空ける
-        time.sleep(0.5)
+        time.sleep(0.3)
 
     return url_to_words
 
