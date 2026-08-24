@@ -1,4 +1,4 @@
-name: Update word counts daily
+name: Update word counts + view counts daily
 
 on:
   schedule:
@@ -27,10 +27,22 @@ jobs:
           BLOGGER_BLOG_ID: ${{ secrets.BLOGGER_BLOG_ID }}
         run: python scripts/update_word_counts.py
 
+      # 閲覧数集計 (GA4 Data API → view_counts.js)。失敗しても word counts の更新は継続
+      - name: Install GA4 dependencies
+        run: pip install google-analytics-data google-auth
+
+      - name: Run view count update
+        id: views
+        continue-on-error: true
+        env:
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA4_SERVICE_ACCOUNT_JSON: ${{ secrets.GA4_SERVICE_ACCOUNT_JSON }}
+        run: python scripts/update_view_counts.py
+
       - name: Check for changes
         id: check
         run: |
-          if [[ -n $(git status --porcelain word_counts.js) ]]; then
+          if [[ -n $(git status --porcelain word_counts.js view_counts.js) ]]; then
             echo "changed=true" >> $GITHUB_OUTPUT
           else
             echo "changed=false" >> $GITHUB_OUTPUT
@@ -42,13 +54,19 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add word_counts.js
+          git add view_counts.js 2>/dev/null || true
           git commit -m "Auto update word counts ($(date +'%Y-%m-%d %H:%M ICT'))"
           git push
 
       - name: Summary
         run: |
           if [[ "${{ steps.check.outputs.changed }}" == "true" ]]; then
-            echo "✅ 変更あり: word_counts.js を更新しました" >> $GITHUB_STEP_SUMMARY
+            echo "✅ 変更あり: word_counts.js / view_counts.js を更新しました" >> $GITHUB_STEP_SUMMARY
+          fi
+          if [[ "${{ steps.views.outcome }}" == "failure" ]]; then
+            echo "⚠️ view counts ステップは失敗 (GA4 secrets/API を確認)" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "👁 view counts: ${{ steps.views.outcome }}" >> $GITHUB_STEP_SUMMARY
           else
             echo "ℹ️ 変更なし: スキップしました" >> $GITHUB_STEP_SUMMARY
           fi
