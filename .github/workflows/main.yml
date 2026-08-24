@@ -62,11 +62,11 @@ jobs:
         run: |
           if [[ "${{ steps.check.outputs.changed }}" == "true" ]]; then
             echo "✅ 変更あり: word_counts.js / view_counts.js を更新しました" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ 変更なし: スキップしました" >> $GITHUB_STEP_SUMMARY
           fi
           if [[ "${{ steps.views.outcome }}" == "failure" ]]; then
             echo "⚠️ view counts ステップは失敗 (GA4 secrets/API を確認)" >> $GITHUB_STEP_SUMMARY
           else
             echo "👁 view counts: ${{ steps.views.outcome }}" >> $GITHUB_STEP_SUMMARY
-          else
-            echo "ℹ️ 変更なし: スキップしました" >> $GITHUB_STEP_SUMMARY
           fi
