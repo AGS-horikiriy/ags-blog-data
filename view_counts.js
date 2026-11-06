@@ -1,7 +1,7 @@
 // AGS Blog 閲覧数データ (GA4)
-// 自動生成: GitHub Actions (2026-11-06 06:26:58 ICT)
+// 自動生成: GitHub Actions (2026-11-07 05:53:17 ICT)
 // 期間: 過去 365 日間
-// 記事数: 5,587 件 / 合計閲覧数: 48,338
+// 記事数: 5,587 件 / 合計閲覧数: 48,340
 //
 // このファイルは GitHub Actions で毎日自動更新されます。
 // 手動編集しないでください。
@@ -10,7 +10,7 @@ window.AGS_VIEW_COUNTS = {
 "https://ketoan.ags-vina.com/2025/06/huong-dan-chi-tiet-cach-ien-mau-20-k-th.html": 869,
 "https://ketoan.ags-vina.com/2025/10/huong-dan-but-toan-ieu-chinh-va-hach.html": 756,
 "https://ketoan.ags-vina.com/2025/10/trang-thai-06-nguoi-nop-thue-khong-hoat.html": 413,
-"https://ketoan.ags-vina.com/2025/09/30-tu-viet-tat-thuong-gap-trong-ke-toan.html": 361,
+"https://ketoan.ags-vina.com/2025/09/30-tu-viet-tat-thuong-gap-trong-ke-toan.html": 362,
 "https://ketoan.ags-vina.com/2025/10/uoc-tang-cho-tien-co-phai-nop-thue-thu.html": 357,
 "https://ketoan.ags-vina.com/2026/01/cach-tinh-thue-tncn-2026-theo-bieu-thue.html": 354,
 "https://ketoan.ags-vina.com/2025/10/cach-xu-ly-chenh-lech-so-du-giua-so-ke.html": 333,
@@ -568,6 +568,7 @@ window.AGS_VIEW_COUNTS = {
 "https://ketoan.ags-vina.com/2024/05/y-nghia-cach-su-dung-va-cac-vi-du-ve.html": 17,
 "https://ketoan.ags-vina.com/2024/06/muc-luong-kiem-toan-vien-tai-viet-nam.html": 17,
 "https://ketoan.ags-vina.com/2024/06/tong-hop-cac-bai-viet-ve-thue-gia-tri.html": 17,
+"https://ketoan.ags-vina.com/2024/07/ap-dung-tri-tue-nhan-tao-ai-trong-cong.html": 17,
 "https://ketoan.ags-vina.com/2024/07/phan-biet-ddp-va-ddu-trong-xuat-nhap.html": 17,
 "https://ketoan.ags-vina.com/2024/12/uu-nhuoc-iem-cua-phan-mem-ke-toan-misa.html": 17,
 "https://ketoan.ags-vina.com/2025/01/chung-chi-acca-va-cpa-uc-la-gi-nen-lua.html": 17,
@@ -597,7 +598,6 @@ window.AGS_VIEW_COUNTS = {
 "https://ketoan.ags-vina.com/2024/03/nhung-ieu-can-biet-khi-doanh-nghiep-che.html": 16,
 "https://ketoan.ags-vina.com/2024/05/tu-duy-bien-luan-bien-luan-la-gi-bien.html": 16,
 "https://ketoan.ags-vina.com/2024/06/tro-ly-kiem-toan-la-gi-cong-viec-va-ky.html": 16,
-"https://ketoan.ags-vina.com/2024/07/ap-dung-tri-tue-nhan-tao-ai-trong-cong.html": 16,
 "https://ketoan.ags-vina.com/2024/07/chuyen-oi-so-trong-linh-vuc-ke-toan-tai_25.html": 16,
 "https://ketoan.ags-vina.com/2024/07/tong-hop-cac-bai-viet-lien-quan-en-thue.html": 16,
 "https://ketoan.ags-vina.com/2024/07/tong-hop-cac-bai-viet-ve-thue-khac.html": 16,
