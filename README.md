@@ -18,6 +18,7 @@ GitHubの実名は **`ags-blog-data`** を維持します。SQSP-Blogger領域�
 | `word_counts.js` | `AGS_WORD_COUNTS` | 記事URLごとの語数 |
 | `view_counts.js` | `window.AGS_VIEW_COUNTS` | 記事URLごとの閲覧数 |
 | `pillar_audit.js` | `window.AGS_PILLAR_AUDIT` | ピラー記事の検証結果 |
+| `rewrite_candidates.js` | `window.AGS_REWRITE_CANDIDATES` | 書き直し提案（ERP の Viết lại と同じ 4 ルール＋重複）。非公開リポジトリ `ags-blogger-content` の週次点検が生成して置く |
 
 これらのファイル名とデータ名は呼出元との接続仕様です。ファイル名、データ名、項目形式、Pages/CDN/rawのURLを変える場合は、Squarespace、Blogger、ERP等の利用先を確認して切り替えます。
 
